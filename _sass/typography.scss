@@ -3,9 +3,9 @@
 // Based on the typographic scale: 12, 14, 16, 18, 21, 24, 36, 48, 60, 72.
 //
 
-body {
-	font-family: 'Source Sans Pro', sans-serif;
-	letter-spacing: 0.01em;
+* {
+	font-family: 'PT Sans', sans-serif;
+	// letter-spacing: 0.01em;
 }
 
 /*- Typography for medium and small screen, based on 16px font-size -*/

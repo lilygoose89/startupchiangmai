@@ -1,14 +1,14 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
+title: Startup Chiang Mai | A Repo for all things startup related in Chiang Mai, Thailand.
 description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+url: "http://www.startupchiangmai.com/"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Lily Bruns"
+  email: "lily@cnxweb.site"
+  url: "http://cnxweb.site/about"
 
 # Build settings
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
@@ -26,13 +26,11 @@ defaults:
       layout: "post"
 
 # Plugins
-gems:
+plugins_dir:
   - jekyll-paginate
 
-# Custom variables
-version: "1.1.0"
+# # Custom variables
+# version: "1.1.0"
 
 # Options
-custom_header: false
-custom_nav_footer: false
-reverse: false
+reverse: true
