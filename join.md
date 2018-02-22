@@ -3,7 +3,7 @@ layout: page
 ---
 # Join the Chiang Mai Entrepreneurship Association
 
-We are looking for passionate entrepreneurs based in Chiang Mai who believe in our mission and values and want to form a community.
+We are looking for passionate entrepreneurs based in Chiang Mai who believe in our mission and values, and want to form a community.
 
 ## Our Values
 #### Entrepreneurship
