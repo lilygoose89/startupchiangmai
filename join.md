@@ -7,7 +7,7 @@ We are looking for passionate entrepreneurs based in Chiang Mai who believe in o
 
 ## Our Values
 #### Entrepreneurship
-We believe entrepreneurship is a powerful vehicle for self-actualization and growth, and seek to address educational and opportunity gaps through market solutions.
+We believe entrepreneurship is a powerful vehicle for personal growth and a pathway to creating opportunities.
 #### Value-Creation
 We support businesses that provide a real benefit to the end-user and also tangibly benefit the communities from which they were born.
 #### Empowerment
