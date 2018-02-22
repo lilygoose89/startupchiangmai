@@ -9,7 +9,7 @@ We are looking for passionate entrepreneurs based in Chiang Mai who believe in o
 #### Entrepreneurship
 We believe entrepreneurship is a powerful vehicle for self-actualization and growth, and seek to address educational and opportunity gaps through market solutions.
 #### Value-Creation
-We support businesses which provide a real benefit to the end-user and also tangibly benefit the communities from which they were born.
+We support businesses that provide a real benefit to the end-user and also tangibly benefit the communities from which they were born.
 #### Empowerment
 We are committed to empowering local talent by providing entrepreneurs of all backgrounds with access to knowledge, resources, and opportunities.
 #### Integration
