@@ -21,7 +21,7 @@ To make Chiang Mai a hub for value-creating entrepreneurs of all nationalities w
 ## Join Us
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; }
+	#mc_embed_signup{ clear:left; }
 </style>
 <div id="mc_embed_signup">
 <form action="https://startupchiangmai.us17.list-manage.com/subscribe/post?u=795bf6a5be56c263004bf536c&amp;id=890de287c2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
