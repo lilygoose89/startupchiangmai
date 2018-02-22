@@ -18,6 +18,6 @@ We believe a rising tide lifts all, and by connecting talented individuals and b
 
 When we tell people we think this quiet, temple-filled city is the next Silicon Valley of Thailand, the typical response is a laugh or a cocked eyebrow. "Why?" they ask. We ask, "WHY NOT?!"
 
-While Chiang Mais more hyped for lifestyle than hustle, it's a city that manages to bring together an incredibly diverse set of people and skills. We believe this is an asset. This is a city full of thought-leaders, and a conscious class that wants to do more than create the next CandyCrush.
+While Chiang Mai is more hyped for lifestyle than hustle, it's a city that manages to bring together an incredibly diverse set of people and skills. We believe this is an asset. This is a city full of thought-leaders, and a conscious class that wants to do more than create the next CandyCrush.
 
 What can a city full of passionate people do with the right kind of voice and backing? You tell us. Better yet, SHOW US.
