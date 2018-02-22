@@ -57,7 +57,7 @@ To make Chiang Mai a hub for value-creating entrepreneurs of all nationalities w
     <strong>Did you create your product or service?  <span class="asterisk">*</span>
 </strong>
     <ul><li><input type="radio" value="Yes, I created it myself." name="MMERGE12" id="mce-MMERGE12-0"><label for="mce-MMERGE12-0">Yes, I created it myself.</label></li>
-<li><input type="radio" value="Yes, with help of my founding team." name="MMERGE12" id="mce-MMERGE12-1"><label for="mce-MMERGE12-1">Yes, with help of my founding team.</label></li>
+<li><input type="radio" value="Yes, with the help of my founding team." name="MMERGE12" id="mce-MMERGE12-1"><label for="mce-MMERGE12-1">Yes, with help of my founding team.</label></li>
 <li><input type="radio" value="No, I sell the products or services of another provider." name="MMERGE12" id="mce-MMERGE12-2"><label for="mce-MMERGE12-2">No, I sell the products or services of another provider.</label></li>
 </ul>
 </div>
