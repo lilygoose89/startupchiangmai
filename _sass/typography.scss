@@ -5,6 +5,7 @@
 
 * {
 	font-family: 'PT Sans', sans-serif;
+	font-weight: 300;
 	// letter-spacing: 0.01em;
 }
 
@@ -46,6 +47,46 @@ blockquote {
 	p, ul, ol {
 		padding: 1.5em 0; /* 24px/18px */
 	}
+}
+
+.text-white {
+  color: white;
+}
+
+.text-caps {
+  text-transform: uppercase;
+}
+
+.text-bold {
+  font-weight: 400;
+}
+
+.text-underline {
+  text-decoration: underline;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-vb {
+  font-size: 5em;
+}
+
+.text-b {
+  font-size: 2.5em;
+}
+
+.text-m {
+  font-size: 1.5em;
+}
+
+.capitalize {
+  text-transform: capitalize;
 }
 
 /*- Typography for big screen, based on 18px font-size -*/
