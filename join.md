@@ -86,3 +86,5 @@ To make Chiang Mai a hub for value-creating entrepreneurs of all nationalities w
 </form>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BUSNAME';ftypes[5]='text';fnames[6]='FOUNDER';ftypes[6]='text';fnames[7]='DO';ftypes[7]='text';fnames[13]='WEBSITE';ftypes[13]='text';fnames[12]='CREATE';ftypes[12]='radio';fnames[10]='COMMUNITY';ftypes[10]='radio';fnames[11]='BRIDGE';ftypes[11]='radio';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+
+We will respond to all applicants by Friday March 2nd. Thank you for your interest!
