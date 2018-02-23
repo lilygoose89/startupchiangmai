@@ -13,7 +13,7 @@ We support businesses that provide a real benefit to the end-user and also tangi
 #### Empowerment
 We are committed to empowering local talent by providing entrepreneurs of all backgrounds with access to knowledge, resources, and opportunities.
 #### Integration
-We create a bridge between Thai and Non-Thai entrepreneurship communities to foster learning, growth, and development.
+We create a bridge between Thai and non-Thai entrepreneurship communities to foster learning, growth, and development.
 
 ## Our Mission
 To make Chiang Mai a hub for value-creating entrepreneurs of all nationalities who believe in sharing knowledge and creating ties with the local community.
