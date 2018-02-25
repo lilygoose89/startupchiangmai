@@ -4,9 +4,11 @@ title: About
 ---
 # Startup Chiang Mai is an effort to shine a light on the startups and entrepreneurs of Chiang Mai
 
-We know they're out there, so why don't we all know about them? We think it's because this scrappy crew may have more talent than confidence. Well, we're not really satisfied to let them hide, tinkering away at their projects. This is a city full of creative people on the brink of a tech revolution, it's high time these hardworking guys and gals get some recognition.
+We know they're out there, so why don't we all know about them? Maybe it's because this scrappy crew has more talent than confidence, but we're not really satisfied to let them hide, tinkering away at their projects. This is a city full of creative people on the brink of a tech revolution, it's high time these hardworking guys and gals get some recognition.
 
 On this website, you will find a directory of information to help you connect with the people you need to move your project forward. You will also find behind-the-scenes stories and get to know the people shaping the startup story of Chiang Mai.
+
+We believe it should be easy to find people and information, and access resources and expertise.
 
 ## Why work alone?
 
