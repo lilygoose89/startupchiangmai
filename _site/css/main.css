@@ -84,6 +84,12 @@ blockquote {
     padding: 1.5em 0;
     /* 24px/18px */ }
 
+footer a {
+  color: inherit; }
+
+footer a:hover {
+  color: inherit; }
+
 .text-white {
   color: white; }
 
