@@ -1,25 +1,61 @@
 ---
-layout: page
+layout: default
+title: Home
 ---
-<section class="text-center">
-  <h3>Chiang Mai is stepping into a new future future. Will you watch the world pass by or will you shape it?</h3>
-  <h1 class="pad-top-m pad-bottom-m">COMING SOON</h1>
-  <h3>A repository and directory for all things startup related in Chiang Mai, Thailand.</h3>
-</section>
-<section class="margin-top-m margin-bottom-m pad-all-s bg-orange">
-  <h3 class="text-center text-white">Keen to stay posted on what's to come?</h3>
-  <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-  <div id="mc_embed_signup">
-  <form action="https://startupchiangmai.us17.list-manage.com/subscribe/post?u=795bf6a5be56c263004bf536c&amp;id=f3b659a1d9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-      <div id="mc_embed_signup_scroll">
-  	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_795bf6a5be56c263004bf536c_f3b659a1d9" tabindex="-1" value=""></div>
-      <div class="clear"><input type="submit" value="Get Updates" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-      </div>
-  </form>
-  </div>
+
+{% if page.url == "/" %}
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row">
+        
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+        
+    </div>
 </section>
 
+{% endif %}
 
-<!--End mc_embed_signup-->
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+    
+    <div class="section-title">
+        
+        <h2><span>All Stories</span></h2>
+        
+    </div>
+    
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+
+               {% include postbox.html %}          
+
+        {% endfor %}
+        
+    </div>
+    
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+
