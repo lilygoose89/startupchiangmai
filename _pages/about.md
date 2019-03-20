@@ -1,35 +1,27 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Startup Chiang Mai
 permalink: /about
 comments: true
 ---
+# Startup Chiang Mai is an effort to shine a light on the startups and entrepreneurs of Chiang Mai
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">    
+We know they're out there, so why don't we all know about them? Maybe it's because this scrappy crew has more talent than confidence, but we're not really satisfied to let them hide, tinkering away at their projects. This is a city full of creative people on the brink of a tech revolution, it's high time these hardworking guys and gals get some recognition.
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+On this website, you will find a directory of information to help you connect with the people you need to move your project forward. You will also find behind-the-scenes stories and get to know the people shaping the startup story of Chiang Mai.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+We believe it should be easy to find people and information, and access resources and expertise.
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+## Why work alone?
 
-<h4>Questions or bug reports?</h4>
+Don't you want to learn new skills? Meet the right people to move your project forward? Connect with new talent and find investors? If we each go it alone, it's an uphill battle. By sharing knowledge and references we help each other build pathways to success.
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+We believe a rising tide lifts all, and by connecting talented individuals and building a community, we will be able to take a huge collective step forward in developing the startup ecosystem of Chiang Mai, and of Thailand.
 
-</div>
+## What will the future bring?
 
-<div class="col-md-4">
-    
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+When we tell people we think this quiet, temple-filled city is the next Silicon Valley of Thailand, the typical response is a laugh or a cocked eyebrow. "Why?" they ask. We ask, "WHY NOT?!"
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+While Chiang Mai is more hyped for lifestyle than hustle, it's a city that manages to bring together an incredibly diverse set of people and skills. We believe this is an asset. This is a city full of thought-leaders, and a conscious class that wants to do more than create the next CandyCrush.
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+What can a city full of passionate people do with somebody shouting their support from the rooftops? You tell us. Better yet, SHOW US.
