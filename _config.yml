@@ -8,7 +8,7 @@ logo-small: 'assets/images/logo-small.png'
 favicon: 'assets/images/logo.png'
 baseurl: /startupchiangmai
 google_analytics: ''
-disqus: 'demowebsite'
+# disqus: 'demowebsite'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
@@ -18,11 +18,11 @@ authors:
   Lily:
     name: Lily
     display_name: Lily
-    gravatar:
+    gravatar: '2fe6fb927f04d5b181c96f15b0a8e5b6'
     email: lily@cnxweb.site
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. "
+    web: lilybruns.com
+    twitter: https://twitter.com/itslilybruns
+    description: "Coder, copywriter, consultant, and cat lady. I also enjoy travelling and dancing around a pole every now and then."
 
 # Plugins
 plugins:
