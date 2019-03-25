@@ -5,12 +5,14 @@ author: lily
 categories: [ coworking, spaces, collaboration, entrepreneurship ]
 image: assets/images/16.jpg
 ---
-Chiang Mai's many co-working spaces and outlet-rich cafes is undoubtedly one of the reasons the city is so popular with digital nomads. These hubs provide the three amenities that any entrepreneur or digital professional needs to succeed: lightning fast wifi, bottomless caffeine, and, most importantly, talented people to mingle with and learn from.
+
+Where do you get when you need to get shit done or start a new business, but you don't have all the tools and resources you need?
+
+Chiang Mai's many co-working spaces and outlet-rich cafes are undoubtedly one of the reasons the city is so popular with digital nomads. These hubs provide the three amenities that any entrepreneur or digital professional needs to succeed: lightning fast wifi, bottomless caffeine, and, most importantly, talented people to mingle with and learn from.
 
 Coworking spaces are so much more than just jumped up coffee shops or shared offices for the untethered. They're collaborative hubs that bring together talent and ideas, two things every startup ecosystem needs to grow.
 
 Outside of the digital realm, however, Chiang Mai is also seeing a growing number of collaborative spaces that cater to the needs of other entrepreneurial classes. By providing amenities and resources that might typically be beyond the budget of a bootstrapping entrepreneur, these shared spaces support the growth of diverse new businesses.
-
 
 ## Makerspace Thailand
 
@@ -28,8 +30,6 @@ If you're a newbie looking to learn about tooling and manufacturing, the Makersp
 ## Niramis Co-Creating Space
 
 Located off the Canal Road southwest of town, Niramis bill themselves as a "co-creating" space. Park coworking space, part makerspace and workshop, they're known for hosting a variety of workshops aimed at promoting "creative literacy" and business know-how.
-
-
 
 * Location: [7 Rachadamnoen Road Soi 4, T. Sri Phum, A. Muang, Chiang Mai 50200](https://goo.gl/maps/PLKSnT9svB12)
 * Website: [facebook.com/makerspaceth](https://www.facebook.com/makerspaceth/)
