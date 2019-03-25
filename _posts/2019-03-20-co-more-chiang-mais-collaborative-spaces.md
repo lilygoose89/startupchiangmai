@@ -16,6 +16,8 @@ Chiang Mai's many co-working spaces and outlet-rich cafes are undoubtedly one of
 
 Outside of the digital realm, however, sharing resources can also benefit other types of entrepreneurs and Chiang Mai is seeing a growing number of collaborative spaces that cater to the needs of these other creative classes. By providing amenities and resources that might typically be beyond the budget of a bootstrapping entrepreneur, these shared spaces support the growth of diverse new businesses.
 
+---
+
 ## [Makerspace Thailand](https://www.facebook.com/makerspaceth/){: target="_blank"}
 
 First on the list, if you don't already know Makerspace Thailand, then you might be acquainted with one of their successful spin-off ventures, the [Air Tricorder](https://airtricorder.com/). Located next to Punspace Coworking's Tha Pae location, this collaborative workshop comes equipped with all that the modern inventor needs.
@@ -29,7 +31,9 @@ If you're a newbie looking to learn about tooling and manufacturing, the Makersp
 * Email: [info@makerspace.co.th](mailto:info@makerspace.co.th)
 * Phone: [052 064 168](tel:+6652064168)
 
-## Niramis Co-Creating Space
+&nbsp;
+
+## [Niramis Co-Creating Space](https://www.facebook.com/niramisworkshop/){: target="_blank"}
 
 Located off the Canal Road southwest of town, Niramis is a co-creating space: part coworking space, part makerspace and workshop, they're known for hosting a variety of workshops aimed at promoting business know-how and practical creative skills. They also offer programs aimed and children and youth, making themselves a community center serving more than just the usual professional class.
 
@@ -41,14 +45,20 @@ In addition to workspace and resources, Niramis also offers design consultations
 * Website:&nbsp;[facebook.com/niramisworkshop](https://www.facebook.com/niramisworkshop/){: target="_blank"}
 * Phone: [081 810 6715](tel:+66818106715)
 
+&nbsp;
+
 ## Tha Pae Co-Kitchen
 
 Once the premises for her Mexican-fusion joint, restauranteur and cookbook author Yaowadee Chookong moved her original business in favor of setting up Chiang Mai's first shared kitchen space. A joint venture with other local chefs, the venue provides members with a full restaurant kitchen, accessed according to a shared timetable.
 
 For budding restauranteurs, the co-kitchen is the perfect way to start testing recipes and hosting weekly chef's tables without committing to a full-time lease and playing hardball with rapacious landlords.
 
+Chiang Mai's chefs and organic farmers have also hosted numerous workshops and events exploring&nbsp;
+
 * Location: [Thapae Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300](https://goo.gl/maps/26R8o49vAHD2){: target="_blank"}&nbsp;(in the same courtyard as Tha Pae East and&nbsp;
 * Website: [facebook.com/thapaecokitchenspace](https://www.facebook.com/pg/thapaecokitchenspace/){: target="_blank"}
+
+&nbsp;
 
 ## Weave Artisan Society
 
@@ -63,4 +73,10 @@ They partner with and create a community for artisans to provide studio space an
 * Email: [weave.society@gmail.com](mailto:weave.society@gmail.com)
 * Phone: [080 071 3218](tel:+66800713218)
 
-Coworking spaces are so much more than just jumped up coffee shops or shared offices for the untethered. They're collaborative hubs that bring together talent and ideas, two things every startup ecosystem needs to grow. By serving the needs of non-digital entrepreneurs, the collaborative spaces we've rounded up above are giving a more diverse group of entrepreneurs and creators a jumpstart and contributing to the city's entrepreneurial ecosystem.
+&nbsp;
+
+---
+
+Coworking spaces are so much more than just jumped up coffee shops or shared offices for the untethered. They're collaborative hubs that bring together talent and ideas, two things every startup ecosystem needs to grow.
+
+By serving the needs of non-digital entrepreneurs, the collaborative spaces we've rounded up above are giving a more diverse group of entrepreneurs and creators a jumpstart and contributing to the city's entrepreneurial ecosystem.
