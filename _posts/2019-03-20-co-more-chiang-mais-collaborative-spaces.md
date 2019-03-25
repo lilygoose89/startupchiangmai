@@ -31,7 +31,11 @@ If you're a newbie looking to learn about tooling and manufacturing, the Makersp
 
 ## Niramis Co-Creating Space
 
-Located off the Canal Road southwest of town, Niramis bill themselves as a "co-creating" space. Park coworking space, part makerspace and workshop, they're known for hosting a variety of workshops aimed at promoting "creative literacy" and business know-how.
+Located off the Canal Road southwest of town, Niramis is a co-creating space: part coworking space, part makerspace and workshop, they're known for hosting a variety of workshops aimed at promoting business know-how and practical creative skills. They also offer programs aimed and children and youth, making themselves a community center serving more than just the usual professional class.
+
+Founder Archan Naksorn has an extensive background in product design and used to lecture at Thammasat University. He opened the space in 2018 hoping to serve the Thai community and share his skills and know how with a broader audience.
+
+In addition to workspace and resources, Niramis also offers design consultations,&nbsp; business mentorship and a coffee shop any bean-snob can appreciate.
 
 * Location: [500/58-59 Bizpoint10, Chonprathan Rd, Mae Hia, Muang, Chang Wat Chiang Mai 50100](https://goo.gl/maps/JwAowHAYBcK2){: target="_blank"}
 * Website:&nbsp;[facebook.com/niramisworkshop](https://www.facebook.com/niramisworkshop/){: target="_blank"}
@@ -41,7 +45,7 @@ Located off the Canal Road southwest of town, Niramis bill themselves as a "co-c
 
 Once the premises for her Mexican-fusion joint, restauranteur and cookbook author Yaowadee Chookong moved her original business in favor of setting up Chiang Mai's first shared kitchen space. A joint venture with other local chefs, the venue provides members with a full restaurant kitchen, accessed according to a shared timetable.
 
-For budding restauranteurs, the co-kitchen is the perfect way to start testing recipes and hosting weekly chef's tables without committing to a full-time lease and playing hardball with greedy
+For budding restauranteurs, the co-kitchen is the perfect way to start testing recipes and hosting weekly chef's tables without committing to a full-time lease and playing hardball with rapacious landlords.
 
 * Location: [Thapae Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300](https://goo.gl/maps/26R8o49vAHD2){: target="_blank"}&nbsp;(in the same courtyard as Tha Pae East and&nbsp;
 * Website: [facebook.com/thapaecokitchenspace](https://www.facebook.com/pg/thapaecokitchenspace/){: target="_blank"}
