@@ -1,18 +1,20 @@
 ---
 layout: post
-title:  "Co-More, Chiang Mai's Collaborative Spaces"
+title: 'Co-More, Chiang Mai''s Collaborative Spaces'
 author: lily
-categories: [ coworking, spaces, collaboration, entrepreneurship ]
-image: assets/images/16.jpg
+categories:
+  - coworking
+  - spaces
+  - collaboration
+  - entrepreneurship
+image: /uploads/tools-1.jpg
 ---
 
-Where do you get when you need to get shit done or start a new business, but you don't have all the tools and resources you need?
+Where do you go when you need to get shit done or start a new business, but you don't have all the tools and resources you need?
 
-Chiang Mai's many co-working spaces and outlet-rich cafes are undoubtedly one of the reasons the city is so popular with digital nomads. These hubs provide the three amenities that any entrepreneur or digital professional needs to succeed: lightning fast wifi, bottomless caffeine, and, most importantly, talented people to mingle with and learn from.
+Chiang Mai's many co-working spaces and outlet-rich cafes are undoubtedly one of the reasons the city is so popular with digital nomads. These hubs provide the three amenities that any entrepreneur or digital professional needs to succeed: lightning fast wifi, bottomless caffeine, and most importantly, talented people to mingle with and learn from.
 
-Coworking spaces are so much more than just jumped up coffee shops or shared offices for the untethered. They're collaborative hubs that bring together talent and ideas, two things every startup ecosystem needs to grow.
-
-Outside of the digital realm, however, Chiang Mai is also seeing a growing number of collaborative spaces that cater to the needs of other entrepreneurial classes. By providing amenities and resources that might typically be beyond the budget of a bootstrapping entrepreneur, these shared spaces support the growth of diverse new businesses.
+Outside of the digital realm, however, sharing resources can also benefit other types of entrepreneurs and Chiang Mai is seeing a growing number of collaborative spaces that cater to the needs of these other creative classes. By providing amenities and resources that might typically be beyond the budget of a bootstrapping entrepreneur, these shared spaces support the growth of diverse new businesses.
 
 ## Makerspace Thailand
 
@@ -53,3 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 * Website: [facebook.com/makerspaceth](https://www.facebook.com/makerspaceth/)
 * Email: [info@makerspace.co.th](mailto:info@makerspace.co.th)
 * Phone: [052 064 168](tel:+6652064168)
+
+&nbsp;
+
+Coworking spaces are so much more than just jumped up coffee shops or shared offices for the untethered. They're collaborative hubs that bring together talent and ideas, two things every startup ecosystem needs to grow. By serving the needs of non-digital entrepreneurs, the collaborative spaces we've rounded up above are giving a more diverse group of entrepreneurs and creators a jumpstart and contributing to the city's entrepreneurial ecosystem.
