@@ -47,22 +47,22 @@ In addition to workspace and resources, Niramis also offers design consultations
 
 &nbsp;
 
-## Tha Pae Co-Kitchen
+## [Tha Pae Co-Kitchen](https://www.facebook.com/pg/thapaecokitchenspace/){: target="_blank"}
 
 Once the premises for her Mexican-fusion joint, restauranteur and cookbook author Yaowadee Chookong moved her original business in favor of setting up Chiang Mai's first shared kitchen space. A joint venture with other local chefs, the venue provides members with a full restaurant kitchen, accessed according to a shared timetable.
 
-For budding restauranteurs, the co-kitchen is the perfect way to start testing recipes and hosting weekly chef's tables without committing to a full-time lease and playing hardball with rapacious landlords.
+For budding restauranteurs, the co-kitchen is the perfect way to start testing recipes or hosting weekly chef's tables without committing to a full-time lease and playing hardball with the city's rapacious landlords.
 
-Chiang Mai's chefs and organic farmers have also hosted numerous workshops and events exploring&nbsp;
+Chiang Mai's chefs and organic farmers have hosted numerous workshops and events exploring everything from indigenous ingredients to artisinal vegan sushis and French baking. The shared kitchen has become g a hub for culinary creativity and a space for chefs and food enthusiast to explore, learn and celebrate.
 
 * Location: [Thapae Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300](https://goo.gl/maps/26R8o49vAHD2){: target="_blank"}&nbsp;(in the same courtyard as Tha Pae East and&nbsp;
 * Website: [facebook.com/thapaecokitchenspace](https://www.facebook.com/pg/thapaecokitchenspace/){: target="_blank"}
 
 &nbsp;
 
-## Weave Artisan Society
+## [Weave Artisan Society](https://weaveartisansociety.com/){: target="_blank"}
 
-Billing themselves as a "multifaceted design studio come process driven creative venue," this collaborative space is still in the soft-opening phase, but stay tuned for exciting things to come. A special Valentine's Day event in February brought together
+Billing themselves as a "multifaceted design studio come process driven creative venue," this collaborative space is still in the soft-opening phase, but stay tuned for exciting things to come.
 
 Located in the historic Wua Lai area south of the Old City, this warehouse conversion sits amongst silversmith studio and antique shops in the historically significant neighborhood.
 
