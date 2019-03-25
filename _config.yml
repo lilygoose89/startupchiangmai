@@ -5,7 +5,7 @@ description: "A repository for all things start up and digital in Chiang Mai"
 meta_description: "A repository for all things start up and digital in Chiang Mai"
 logo: 'assets/images/logo.png'
 logo-small: 'assets/images/logo-small.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl:
 google_analytics: ''
 # disqus: 'demowebsite'
