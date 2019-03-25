@@ -11,19 +11,19 @@ var documents = [{
     "body": "Startup Chiang Mai is an effort to shine a light on the startups and entrepreneurs of Chiang MaiWe know they’re out there, so why don’t we all know about them? Maybe it’s because this scrappy crew has more talent than confidence, but we’re not really satisfied to let them hide, tinkering away at their projects. This is a city full of creative people on the brink of a tech revolution, it’s high time these hardworking guys and gals get some recognition. On this website, you will find a directory of information to help you connect with the people you need to move your project forward. You will also find behind-the-scenes stories and get to know the people shaping the startup story of Chiang Mai. We believe it should be easy to find people and information, and access resources and expertise. Why work alone?: Don’t you want to learn new skills? Meet the right people to move your project forward? Connect with new talent and find investors? If we each go it alone, it’s an uphill battle. By sharing knowledge and references we help each other build pathways to success. We believe a rising tide lifts all, and by connecting talented individuals and building a community, we will be able to take a huge collective step forward in developing the startup ecosystem of Chiang Mai, and of Thailand. What will the future bring?: When we tell people we think this quiet, temple-filled city is the next Silicon Valley of Thailand, the typical response is a laugh or a cocked eyebrow. “Why?” they ask. We ask, “WHY NOT?!” While Chiang Mai is more hyped for lifestyle than hustle, it’s a city that manages to bring together an incredibly diverse set of people and skills. We believe this is an asset. This is a city full of thought-leaders, and a conscious class that wants to do more than create the next CandyCrush. What can a city full of passionate people do with somebody shouting their support from the rooftops? You tell us. Better yet, SHOW US. "
     }, {
     "id": 2,
-    "url": "http://localhost:4000/blog/",
-    "title": "Home",
-    "body": "      All Stories:             "
-    }, {
-    "id": 3,
     "url": "http://localhost:4000/categories",
     "title": "Categories",
     "body": ""
     }, {
+    "id": 3,
+    "url": "http://localhost:4000/contact",
+    "title": "Get in touch with Startup Chiang Mai",
+    "body": "  Get in touch with Startup Chiang Mai                   Name               E-mail                    Message               "
+    }, {
     "id": 4,
     "url": "http://localhost:4000/",
-    "title": "Startup Chiang Mai Home",
-    "body": "      Featured:                     All Stories:                                                                 Co-More, Chiang Mai's Collaborative Spaces              :       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi. . . :                                                                                             20 Mar 2019                                            "
+    "title": "Startup Chiang Mai",
+    "body": "      All Posts:                                                                 Co-More, Chiang Mai's Collaborative Spaces              :       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi. . . :                                                                             Lily                20 Mar 2019                                            "
     }, {
     "id": 5,
     "url": "http://localhost:4000/robots.txt",

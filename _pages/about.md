@@ -2,7 +2,7 @@
 layout: page
 title: About Startup Chiang Mai
 permalink: /about
-comments: true
+comments: false
 ---
 # Startup Chiang Mai is an effort to shine a light on the startups and entrepreneurs of Chiang Mai
 

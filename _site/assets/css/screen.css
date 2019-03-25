@@ -175,7 +175,7 @@ License: https://www.wowthemes.net/freebies-license/
      color:rgba(0,0,0,.44);
 }
  span.post-name a,span.post-read-more a:hover {
-     color:rgba(0,0,0,.8);
+     color:rgba(0,0,0,.75);
 }
  .dot:after {
      content:"·";
@@ -200,7 +200,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .mediumnavigation .form-inline .btn:hover,.mediumnavigation .form-inline .btn:active {
      background:transparent;
-     color:#3166d8;
+     color: #3166d8;
 }
  .mediumnavigation .navbar-brand {
      font-weight:500;
@@ -241,13 +241,13 @@ License: https://www.wowthemes.net/freebies-license/
      background: #fff;
 }
  .link-dark {
-     color:rgba(0,0,0,.8);
+     color:rgba(0,0,0,.75);
 }
  .article-post {
      font-family:Merriweather;
      font-size:1.1rem;
      line-height:1.84;
-     color:rgba(0,0,0,.8);
+     color:rgba(0,0,0,.75);
 }
  blockquote {
      border-left:4px solid #447df8;
@@ -602,6 +602,7 @@ License: https://www.wowthemes.net/freebies-license/
          border-radius:0;
          background-image: url(../images/jumbotron.jpg);
          background-size:cover;
+         background-position: center;
     }
      .jumbotron.fortags .col-md-4 {
          background:rgba(0,0,0,0.75);
@@ -627,6 +628,9 @@ License: https://www.wowthemes.net/freebies-license/
      text-transform: lowercase;
      font-size: 0.8rem;
      display: inline-block;
+}
+.jumbotron.fortags a:hover {
+    background: #447df8;
 }
  .layout-page .jumbotron.fortags {
     display:none;

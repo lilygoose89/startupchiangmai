@@ -1,3 +1,71 @@
+.get-in-touch {
+  margin: 5% 0; }
+
+.get-in-touch h1 {
+  padding-bottom: 1.5em; }
+
+.contact-form .form-field {
+  position: relative;
+  margin: 32px 0; }
+
+.contact-form .input-text {
+  display: block;
+  width: 100%;
+  height: 36px;
+  border-width: 0 0 2px 0;
+  border-color: #000;
+  line-height: 26px;
+  font-weight: 400; }
+
+.contact-form .input-text:focus {
+  outline: none; }
+
+.contact-form .input-text:focus + .label, .contact-form .input-text.not-empty + .label {
+  -webkit-transform: translateY(-24px);
+  transform: translateY(-24px); }
+
+.contact-form .label {
+  position: absolute;
+  left: 20px;
+  bottom: 11px;
+  line-height: 32px;
+  font-weight: 400;
+  color: #888;
+  cursor: text;
+  transition: -webkit-transform .2s ease-in-out;
+  transition: transform .2s ease-in-out;
+  transition: transform .2s ease-in-out, -webkit-transform .2s ease-in-out; }
+
+.btn-submit {
+  background-color: #447df8;
+  border: 1px solid #447df8;
+  color: white;
+  fill: white;
+  font-size: 0.85rem;
+  border-radius: 3px;
+  padding: 4px 10px;
+  font-weight: 600;
+  height: 34px;
+  width: 100%;
+  letter-spacing: 0.5px;
+  cursor: pointer; }
+
+.note {
+  position: absolute;
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+  line-height: 21px; }
+
+.note .link {
+  color: #888;
+  text-decoration: none; }
+
+.note .link:hover {
+  text-decoration: underline; }
+
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
   display: inline; }
