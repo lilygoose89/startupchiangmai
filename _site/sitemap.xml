@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/co-more-chiang-mais-collaborative-spaces/</loc>
+<loc>http://localhost:4000/chiang-mai-coworking-collaborative-spaces/</loc>
 <lastmod>2019-03-20T00:00:00+07:00</lastmod>
 </url>
 <url>
@@ -18,6 +18,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/coworking/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/resources/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/spaces/</loc>

@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Co-More, Chiang Mai's Collaborative Spaces
+permalink: /chiang-mai-coworking-collaborative-spaces/
+description: Chiang Mai is seeing a growing number of coworking and collaborative spaces that cater to the needs of its diverse creative classes. By providing amenities and resources that might typically be beyond the budget of a bootstrapping entrepreneur, these shared spaces support the growth of diverse new businesses.
 author: lily
 categories:
   - coworking
+  - resources
   - spaces
   - collaboration
   - entrepreneurship
@@ -12,11 +15,11 @@ image: /assets/images/tools-1.jpg
 
 Where do you go when you need to get shit done or start a new business, but you don't have all the tools and resources you need?
 
-Chiang Mai's many co-working spaces and outlet-rich cafes are undoubtedly one of the reasons the city is so popular with digital nomads. These hubs provide the three amenities that any entrepreneur or digital professional needs to succeed: lightning fast wifi, bottomless caffeine, and most importantly, talented people to mingle with and learn from.
+Chiang Mai's many coworking spaces and outlet-rich cafes are undoubtedly one of the reasons the city is so popular with digital nomads. These hubs provide the three amenities that any entrepreneur or digital professional needs to succeed: lightning fast wifi, bottomless caffeine, and most importantly, talented people to mingle with and learn from.
 
 Outside of the digital realm, however, sharing resources can also benefit other types of entrepreneurs and Chiang Mai is seeing a growing number of collaborative spaces that cater to the needs of these other creative classes. By providing amenities and resources that might typically be beyond the budget of a bootstrapping entrepreneur, these shared spaces support the growth of diverse new businesses.
 
----
+-----
 
 ## [Makerspace Thailand](https://www.facebook.com/makerspaceth/){: target="_blank"}
 
@@ -77,7 +80,7 @@ They partner with and create a community for artisans to provide studio space an
 
 &nbsp;
 
----
+-----
 
 Coworking spaces are so much more than just jumped up coffee shops or shared offices for the untethered. They're collaborative hubs that bring together talent and ideas, two things every startup ecosystem needs to grow.
 
