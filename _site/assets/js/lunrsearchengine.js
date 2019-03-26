@@ -28,7 +28,7 @@ var documents = [{
     "id": 5,
     "url": "http://localhost:4000/robots.txt",
     "title": "",
-    "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
+    "body": "User-agent: *Sitemap: https://startupchiangmai. com/sitemap. xml "
     }, {
     "id": 6,
     "url": "http://localhost:4000/chiang-mai-coworking-collaborative-spaces/",

@@ -1,12 +1,12 @@
 # Site
 name: "Startup Chiang Mai"
 title: "Startup Chiang Mai"
-description: "A repository for all things start up and digital in Chiang Mai"
-meta_description: "A repository for all things start up and digital in Chiang Mai"
+description: "Startup Chiang Mai is a directory for all things startup and entrepreneurship. We also tell stories, share insights, and support community."
+meta_description: "Startup Chiang Mai is a directory for all things startup and entrepreneurship. We also tell stories, share insights, and support community."
 logo: 'assets/images/logo.png'
 logo-small: 'assets/images/logo-small.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+baseurl:
 google_analytics: 'UA-136959394-1'
 mailchimp-list: ''
 include: ["_pages"]
@@ -30,6 +30,18 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: Startup Chiang Mai
+author:
+  name: Lily
+  email: startup@cnxweb.site
+  twitter: startupcmdotcom
+social:
+  name: Startup Chiang Mai
+  links:
+    - startupchiangmai.com
 
 # Archives
 jekyll-archives:
