@@ -1,11 +1,10 @@
 ---
-layout: default
+layout: page
 title: Get in touch with Startup Chiang Mai
 permalink: /contact
 comments: false
 ---
 <section class="get-in-touch">
-   <h1 class="title">{{page.title}}</h1>
    <form method="POST" action="https://formspree.io/lily@cnxweb.site" class="contact-form row">
      <input type="hidden" name="_next" value="/" />
      <input type="hidden" name="_language" value="en" />

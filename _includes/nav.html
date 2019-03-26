@@ -22,31 +22,39 @@
 
             <ul class="navbar-nav ml-auto">
 
+              {% if page.url contains "/directory" %}
+              <li class="nav-item active">
+              {% else %}
+              <li class="nav-item">
+              {% endif %}
+              <a class="nav-link" href="/directory">Directory</a>
+              </li>
+
               {% if page.url == "/" %}
               <li class="nav-item active">
               {% else %}
               <li class="nav-item">
               {% endif %}
-              <a class="nav-link" href="{{ site.baseurl }}/index.html">Posts</a>
+              <a class="nav-link" href="{{ site.baseurl }}/index">Posts</a>
               </li>
 
-                {% if page.url == "/about.html" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="/about">About</a>
-                </li>
+              {% if page.url contains "/about" %}
+              <li class="nav-item active">
+              {% else %}
+              <li class="nav-item">
+              {% endif %}
+              <a class="nav-link" href="/about">About</a>
+              </li>
 
-                {% if page.url == "/contact.html" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="/contact">Contact</a>
-                </li>
+              {% if page.url contains "/contact" %}
+              <li class="nav-item active">
+              {% else %}
+              <li class="nav-item">
+              {% endif %}
+              <a class="nav-link" href="/contact">Contact</a>
+              </li>
 
-                {% include search-lunr.html %}
+              {% include search-lunr.html %}
 
             </ul>
 

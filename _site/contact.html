@@ -88,7 +88,7 @@
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
-  <body class="layout-default">
+  <body class="layout-page">
     
 <!-- Begin Menu Navigation
 ================================================== -->
@@ -116,22 +116,28 @@
               
               <li class="nav-item">
               
-              <a class="nav-link" href="/index.html">Posts</a>
+              <a class="nav-link" href="/directory">Directory</a>
               </li>
 
-                
-                <li class="nav-item">
-                
-                <a class="nav-link" href="/about">About</a>
-                </li>
+              
+              <li class="nav-item">
+              
+              <a class="nav-link" href="/index">Posts</a>
+              </li>
 
-                
-                <li class="nav-item">
-                
-                <a class="nav-link" href="/contact">Contact</a>
-                </li>
+              
+              <li class="nav-item">
+              
+              <a class="nav-link" href="/about">About</a>
+              </li>
 
-                <script src="/assets/js/lunr.js"></script>
+              
+              <li class="nav-item active">
+              
+              <a class="nav-link" href="/contact">Contact</a>
+              </li>
+
+              <script src="/assets/js/lunr.js"></script>
 
 
 <style>
@@ -172,28 +178,39 @@
         <!-- Content
         ================================================== -->
         <div class="main-content">
-            <section class="get-in-touch">
-   <h1 class="title">Get in touch with Startup Chiang Mai</h1>
+            <section>
+    <div class="section-title">
+        <h2><span>Get in touch with Startup Chiang Mai</span></h2>
+    </div>
+
+    <div class="article-post col-md-9 flex-first">
+    <section class="get-in-touch">
    <form method="POST" action="https://formspree.io/lily@cnxweb.site" class="contact-form row">
      <input type="hidden" name="_next" value="/" />
      <input type="hidden" name="_language" value="en" />
       <div class="form-field col-lg-4 col-md-6">
-         <input id="name" class="input-text js-input" type="text" name="name" required>
+         <input id="name" class="input-text js-input" type="text" name="name" required="" />
          <label class="label" for="name">Name</label>
       </div>
       <div class="form-field col-lg-4 col-md-6">
-         <input id="email" class="input-text js-input" type="email" name="email" required>
+         <input id="email" class="input-text js-input" type="email" name="email" required="" />
          <label class="label" for="email">E-mail</label>
       </div>
       <div class="form-field col-lg-8 col-md-4">
          <!-- <input id="message" class="input-text js-input" type="text" required> -->
-         <textarea id="message" class="input-text js-input" type="text" name="message" required></textarea>
+         <textarea id="message" class="input-text js-input" type="text" name="message" required=""></textarea>
          <label class="label" for="message">Message</label>
       </div>
       <div class="form-field col-lg-8 align-center">
-         <input class="btn-submit" type="submit" value="Send">
+         <input class="btn-submit" type="submit" value="Send" />
       </div>
    </form>
+</section>
+
+    </div>
+
+    
+
 </section>
 
         </div>
