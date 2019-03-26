@@ -35,9 +35,11 @@ If you're a newbie looking to learn about tooling and manufacturing, the Makersp
 
 ## [Niramis Co-Creating Space](https://www.facebook.com/niramisworkshop/){: target="_blank"}
 
-Located off the Canal Road southwest of town, Niramis is a co-creating space: part coworking space, part makerspace and workshop, they're known for hosting a variety of workshops aimed at promoting business know-how and practical creative skills. They also offer programs aimed and children and youth, making themselves a community center serving more than just the usual professional class.
+Located off the Canal Road southwest of town, Niramis is a co-creating space: part coworking space, part makerspace and workshop, they're known for hosting a variety of workshops aimed at promoting business know-how and practical creative skills.
 
-Founder Archan Naksorn has an extensive background in product design and used to lecture at Thammasat University. He opened the space in 2018 hoping to serve the Thai community and share his skills and know how with a broader audience.
+They also offer programs aimed and children and youth, making themselves a community center which connects people beyond Chiang Mai's typical circles.
+
+Founder Archan Naksorn has an extensive background in industrial design and used to lecture at Thammasat University in Bangkok. He opened the space in 2018 hoping to serve a diverse community and share his skills and know how with a broader audience.
 
 In addition to workspace and resources, Niramis also offers design consultations,&nbsp; business mentorship and a coffee shop any bean-snob can appreciate.
 
@@ -53,7 +55,7 @@ Once the premises for her Mexican-fusion joint, restauranteur and cookbook autho
 
 For budding restauranteurs, the co-kitchen is the perfect way to start testing recipes or hosting weekly chef's tables without committing to a full-time lease and playing hardball with the city's rapacious landlords.
 
-Chiang Mai's chefs and organic farmers have hosted numerous workshops and events exploring everything from indigenous ingredients to artisinal vegan sushis and French baking. The shared kitchen has become g a hub for culinary creativity and a space for chefs and food enthusiast to explore, learn and celebrate.
+Chiang Mai's chefs and organic farmers have put on regular workshops and events here, exploring everything from indigenous ingredients to artisanal vegan sushis and French baking. The shared kitchen has become g a hub for culinary creativity and a space for chefs and food enthusiast to explore, learn and celebrate.
 
 * Location: [Thapae Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300](https://goo.gl/maps/26R8o49vAHD2){: target="_blank"}&nbsp;(in the same courtyard as Tha Pae East and&nbsp;
 * Website: [facebook.com/thapaecokitchenspace](https://www.facebook.com/pg/thapaecokitchenspace/){: target="_blank"}
