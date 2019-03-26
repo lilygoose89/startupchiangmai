@@ -10,7 +10,7 @@ categories:
   - spaces
   - collaboration
   - entrepreneurship
-image: /assets/images/tools-1.jpg
+image: assets/images/tools-1.jpg
 ---
 
 Where do you go when you need to get shit done or start a new business, but you don't have all the tools and resources you need?
