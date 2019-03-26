@@ -6,8 +6,8 @@ meta_description: "A repository for all things start up and digital in Chiang Ma
 logo: 'assets/images/logo.png'
 logo-small: 'assets/images/logo-small.png'
 favicon: 'assets/images/favicon.ico'
-baseurl:
-google_analytics: ''
+baseurl: 
+google_analytics: 'UA-136959394-1'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
