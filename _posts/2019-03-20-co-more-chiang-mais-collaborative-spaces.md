@@ -19,7 +19,7 @@ Chiang Mai's many coworking spaces and outlet-rich cafes are undoubtedly one of 
 
 Outside of the digital realm, however, sharing resources can also benefit other types of entrepreneurs and Chiang Mai is seeing a growing number of collaborative spaces that cater to the needs of these other creative classes. By providing amenities and resources that might typically be beyond the budget of a bootstrapping entrepreneur, these shared spaces support the growth of diverse new businesses.
 
------
+---
 
 ## [Makerspace Thailand](https://www.facebook.com/makerspaceth/){: target="_blank"}
 
@@ -80,8 +80,10 @@ They partner with and create a community for artisans to provide studio space an
 
 &nbsp;
 
------
+---
 
 Coworking spaces are so much more than just jumped up coffee shops or shared offices for the untethered. They're collaborative hubs that bring together talent and ideas, two things every startup ecosystem needs to grow.
 
 By serving the needs of non-digital entrepreneurs, the collaborative spaces we've rounded up above are giving a more diverse group of entrepreneurs and creators a jumpstart and contributing to the city's entrepreneurial ecosystem.
+
+Have you checked out Chiang Mai's collaborative space yet? Have more to add? Let us know in the comments!
