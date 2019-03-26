@@ -4,11 +4,11 @@ title: "Startup Chiang Mai"
 description: "Startup Chiang Mai is a directory for all things startup and entrepreneurship. We also tell stories, share insights, and support community."
 meta_description: "Startup Chiang Mai is a directory for all things startup and entrepreneurship. We also tell stories, share insights, and support community."
 logo: 'assets/images/logo.png'
-logo-small: '/assets/images/logo-small.png'
+logo-small: 'assets/images/logo-small.png'
 favicon: '/assets/images/favicon.ico'
 baseurl:
 google_analytics: 'UA-136959394-1'
-mailchimp-list: ''
+mailchimp-list: 'https://startupchiangmai.us17.list-manage.com/subscribe?u=795bf6a5be56c263004bf536c&id=f3b659a1d9'
 include: ["_pages"]
 permalink: /:title/
 social:
