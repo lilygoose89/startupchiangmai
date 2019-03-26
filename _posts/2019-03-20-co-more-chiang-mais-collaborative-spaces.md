@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Co-More, Chiang Mai''s Collaborative Spaces'
+title: Co-More, Chiang Mai's Collaborative Spaces
 author: lily
 categories:
   - coworking
   - spaces
   - collaboration
   - entrepreneurship
-image: /uploads/tools-1.jpg
+image: /assets/images/tools-1.jpg
 ---
 
 Where do you go when you need to get shit done or start a new business, but you don't have all the tools and resources you need?
