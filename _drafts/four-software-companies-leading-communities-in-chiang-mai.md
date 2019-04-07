@@ -26,11 +26,16 @@ With so many passionate creatives and entrepreneurs, the city never has any shor
 
 ## ThinkNET
 
-The team behind the Chiang Mai Developer Meetups, ThinkNet are a&nbsp;
+The team behind the Chiang Mai Developer Meetups, ThinkNET is a software workshop with big emphasis on company culture. Founded in Bangkok, the team that set up shop here in Chiang Mai were more than happy to ditch the rate-race commuter grind of the big city to embrace Chiang Mai's more laidback lifestyle. Just because they enjoy work-life balance doesn't mean they lack ambition though, they're a talented team creating cutting edge products that also&nbsp;
 
 ## Artisan Digital
 
 Words
+
+* Website:&nbsp;
+* Facebook:
+* Email:
+* Phone:
 
 ## Iglu
 
