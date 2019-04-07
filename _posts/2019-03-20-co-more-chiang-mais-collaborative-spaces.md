@@ -30,7 +30,7 @@ With 3D printers, CNC machines, laser cutters, a fully stocked workshop of power
 If you're a newbie looking to learn about tooling and manufacturing, the Makerspace team are happy to show you the ropes, from how to design CAD drawings to mastering 3D printing or going to town with a table saw. Need to refine your prototype before launching a Kickstarter campaign? This is the place to do it in case, you know, you didn't bring your whole toolshed with you when you decided to move to Thailand to pursue your dreams.
 
 * Location: [7 Rachadamnoen Road Soi 4, T. Sri Phum, A. Muang, Chiang Mai 50200](https://goo.gl/maps/PLKSnT9svB12){: target="_blank"}
-* Website: [facebook.com/makerspaceth](https://www.facebook.com/makerspaceth/)
+* Facebook: [facebook.com/makerspaceth](https://www.facebook.com/makerspaceth/)
 * Email: [info@makerspace.co.th](mailto:info@makerspace.co.th)
 * Phone: [052 064 168](tel:+6652064168)
 
@@ -47,7 +47,7 @@ Founder Archan Naksorn has an extensive background in industrial design and used
 In addition to workspace and resources, Niramis also offers design consultations,&nbsp; business mentorship and a coffee shop any bean-snob can appreciate.
 
 * Location: [500/58-59 Bizpoint10, Chonprathan Rd, Mae Hia, Muang, Chang Wat Chiang Mai 50100](https://goo.gl/maps/JwAowHAYBcK2){: target="_blank"}
-* Website:&nbsp;[facebook.com/niramisworkshop](https://www.facebook.com/niramisworkshop/){: target="_blank"}
+* Facebook:&nbsp;[facebook.com/niramisworkshop](https://www.facebook.com/niramisworkshop/){: target="_blank"}
 * Phone: [081 810 6715](tel:+66818106715)
 
 &nbsp;
