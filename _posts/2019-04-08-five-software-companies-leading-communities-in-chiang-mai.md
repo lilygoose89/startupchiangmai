@@ -13,7 +13,7 @@ categories:
   - Buzzwoo
   - Iglu
   - ThinkNET
-image: /assets/images/tools-1.jpg
+image: /assets/images/bump-collaboration-colleagues.jpg
 ---
 
 How do you make great software? Without writing a textbook about it, you can boil this down to two things: great ideas, and badass developers. A healthy startup ecosystem should have heaps of both, and smart companies know that the way to find and support these is by bringing together the best and brightest to share and connect.
