@@ -1,8 +1,13 @@
 ---
 layout: post
-title: Co-More, Chiang Mai's Collaborative Spaces
+title: 'Co-More, Chiang Mai''s Collaborative Spaces'
 permalink: /chiang-mai-coworking-collaborative-spaces/
-description: Chiang Mai is seeing a growing number of coworking and collaborative spaces that cater to the needs of its diverse creative classes. By providing amenities and resources that might typically be beyond the budget of a bootstrapping entrepreneur, these shared spaces support the growth of diverse new businesses.
+description: >-
+  Chiang Mai is seeing a growing number of coworking and collaborative spaces
+  that cater to the needs of its diverse creative classes. By providing
+  amenities and resources that might typically be beyond the budget of a
+  bootstrapping entrepreneur, these shared spaces support the growth of diverse
+  new businesses.
 author: lily
 categories:
   - coworking
@@ -10,6 +15,10 @@ categories:
   - spaces
   - collaboration
   - entrepreneurship
+  - Makerspace Thailand
+  - Niramis
+  - Tha Pae Co-Kitchen
+  - Weave Artisan Society
 image: /assets/images/tools-1.jpg
 ---
 
@@ -34,7 +43,7 @@ If you're a newbie looking to learn about tooling and manufacturing, the Makersp
 * Email: [info@makerspace.co.th](mailto:info@makerspace.co.th)
 * Phone: [052 064 168](tel:+6652064168)
 
-&nbsp;
+ 
 
 ## [Niramis Co-Creating Space](https://www.facebook.com/niramisworkshop/){: target="_blank"}
 
@@ -44,13 +53,13 @@ They also offer programs aimed and children and youth, making themselves a commu
 
 Founder Archan Naksorn has an extensive background in industrial design and used to lecture at Thammasat University in Bangkok. He opened the space in 2018 hoping to serve a diverse community and share his skills and know how with a broader audience.
 
-In addition to workspace and resources, Niramis also offers design consultations,&nbsp; business mentorship and a coffee shop any bean-snob can appreciate.
+In addition to workspace and resources, Niramis also offers design consultations,  business mentorship and a coffee shop any bean-snob can appreciate.
 
 * Location: [500/58-59 Bizpoint10, Chonprathan Rd, Mae Hia, Muang, Chang Wat Chiang Mai 50100](https://goo.gl/maps/JwAowHAYBcK2){: target="_blank"}
-* Facebook:&nbsp;[facebook.com/niramisworkshop](https://www.facebook.com/niramisworkshop/){: target="_blank"}
+* Facebook: [facebook.com/niramisworkshop](https://www.facebook.com/niramisworkshop/){: target="_blank"}
 * Phone: [081 810 6715](tel:+66818106715)
 
-&nbsp;
+ 
 
 ## [Tha Pae Co-Kitchen](https://www.facebook.com/pg/thapaecokitchenspace/){: target="_blank"}
 
@@ -60,10 +69,10 @@ For budding restauranteurs, the co-kitchen is the perfect way to start testing r
 
 Chiang Mai's chefs and organic farmers have put on regular workshops and events here, exploring everything from indigenous ingredients to artisanal vegan sushis and French baking. The shared kitchen has become g a hub for culinary creativity and a space for chefs and food enthusiast to explore, learn and celebrate.
 
-* Location: [Thapae Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300](https://goo.gl/maps/26R8o49vAHD2){: target="_blank"}&nbsp;(in the same courtyard as Tha Pae East and&nbsp;
+* Location: [Thapae Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300](https://goo.gl/maps/26R8o49vAHD2){: target="_blank"} (in the same courtyard as Tha Pae East and 
 * Website: [facebook.com/thapaecokitchenspace](https://www.facebook.com/pg/thapaecokitchenspace/){: target="_blank"}
 
-&nbsp;
+ 
 
 ## [Weave Artisan Society](https://weaveartisansociety.com/){: target="_blank"}
 
@@ -78,7 +87,7 @@ They partner with and create a community for artisans to provide studio space an
 * Email: [weave.society@gmail.com](mailto:weave.society@gmail.com)
 * Phone: [080 071 3218](tel:+66800713218)
 
-&nbsp;
+ 
 
 ---
 
