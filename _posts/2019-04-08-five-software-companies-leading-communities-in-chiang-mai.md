@@ -20,7 +20,7 @@ How do you make great software? Without writing a textbook about it, you can boi
 
 While the web offers many tools for tech nerds to do this while comfortably hidden behind their laptops, a city like Chiang Mai also offers great opportunities for software enthusiasts to come together IRL (or *in real life* for those not fluent in geek speak).
 
-The open-source and highly supportive nature of the online developer community translates to the offline experience and the city never has any shortage of meetups and workshops. Some of the best are led by Chiang Mai's community-minded software companies playing a key part in establishing the city as Southeast Asia's next exciting tech hub.&nbsp;
+The open-source and highly supportive nature of the online developer community translates to the offline experience and the city never has any shortage of meetups and workshops. Some of the best are led by Chiang Mai's community-minded software companies playing a key part in establishing the city as Southeast Asia's next tech hub.&nbsp;
 
 ---
 
@@ -36,18 +36,18 @@ While not a software company per se, digital outsourcing solution [Iglu](https:/
 
 Founded by one of Chiang Mai's most well connected tech-dudes, [The Chiang Mai Entrepreneurship Association's very own Toi](https://www.facebook.com/ChiangMaiEntrepreneurs/photos/a.235733746973347/336577546888966/?type=3&amp;theater){: target="_blank"}, [Artisan Digital](https://artisan.co.th){: target="_blank"} create digital experiences and software products worthy of Chiang Mai's reputation for care of craft. With a stated mission to "make our home the new digital hub," they keep close ties with Chiang Mai University's Computer Sciences Department, Bangkok-based startups, corporate VCs and the larger Thai developer community. While they do on occasion invite the community into their cozy Sirimankalajarn office, you'll more often see their team helping run things behind the scenes at other's tech events and their logo emblazoned as a sponsor for all things startup in Chiang Mai.
 
-[Buzzwoo Asia](https://www.buzzwoo.de/){: target="_blank"}
+## [Buzzwoo Asia](https://www.buzzwoo.de/){: target="_blank"}
 
 A German software outfit, [Buzzwoo](https://www.buzzwoo.de/){: target="_blank"} have had a branch in Chiang Mai for nearly a decade and in that time have earned themselves a reputation for being a great place to work. With a mixed Thai and international team, they do a lot to bring people together in-house and facilitate connections, and regularly extend invitations to Chiang Mai's developer community to learn and grow with them. With events hosted almost every month, attendees are invited to "come for the talk, stay for the networking" and meet to discuss topics like Docker best practices, cool applications for AI and trends in the internet of things.
 
-Nextzy Technologies
+## [Nextzy Technologies](https://nextzy.me/){: target="_blank"}
 
 If you've ever peeked into their offices at Cube 7 Coworking, you might get a bit of college dorm vibe, but this Bangkok-born software company is creating apps and software for major Thai corporates like AIS, True and Dhipaya Insurance. The Chiang Mai team host regular meetups around town and also bring developers together for hackathons, pool parties and flash talks.
 
------
+---
 
-It takes a village, and putting Chiang Mai on the map as a tech tour de force will require companies and organizations to serve more than just themselves. By making the city a great place to work for their own teams and challenging Chiang Mai's developer community to push boundaries these software houses are setting a great example for what it takes to build an ecosystem.
+It takes a village, and putting Chiang Mai on the map as a tech tour de force will require companies and organizations to serve more than just themselves. By making the city a great place to work for their own teams and also supporting Chiang Mai's developer community at large, these software houses are setting a great example for what it takes to build an ecosystem.
 
-The best way to find out about upcoming events from these supportive ecosystem players is to stay tuned to updates on each company's Facebook page, but there are also a couple of Facebook groups you'll see these events posted in in. Check out [CNX Community fo Practice](https://www.facebook.com/groups/184800808563484/events/){: target="_blank"} for events and learning opportunities for local developers or join the [Chiang Mai Digital Nomads](https://www.facebook.com/groups/cmnomads/events/){: target="_blank"} group for events geared towards digital nomads and remote workers.
+The best way to find out about upcoming events from these supportive ecosystem players is to stay tuned to updates on each company's Facebook page, but there are also a couple of Facebook groups you'll often see these events posted in in. Check out [CNX Community fo Practice](https://www.facebook.com/groups/184800808563484/events/){: target="_blank"} for events and learning opportunities for local developers or join the [Chiang Mai Digital Nomads](https://www.facebook.com/groups/cmnomads/events/){: target="_blank"} group for events geared towards digital nomads and remote workers.
 
-Which company's events have you attended before? Are their other Chiang Mai based software companies you see as leading the charge? Who do you wish would put on another event soon? Please share your thoughts in the comments below!
+Which company's events have you attended before? Are there other Chiang Mai based software companies you see as leading the charge? Who do you wish would put on another event soon? Please share your thoughts in the comments below!
