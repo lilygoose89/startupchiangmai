@@ -2,7 +2,12 @@
 layout: post
 title: Five Software Companies Leading Communities in Chiang Mai
 permalink: /chiang-mai-software-companies-with-communities
-description: "While the web offers many tools for\_tech nerds to connect and share while comfortably\_hidden behind their laptops, a city like Chiang Mai also offers great opportunities for software enthusiasts to come together in real life."
+description: >-
+  The open-source and highly supportive nature of the online developer community
+  translates to the offline experience and Chiang Mai never has any shortage of
+  meetups and workshops. Some of the best are led by community-minded software
+  companies playing a key part in establishing the city as Southeast Asia's next
+  tech hub.
 author: lily
 categories:
   - resources
