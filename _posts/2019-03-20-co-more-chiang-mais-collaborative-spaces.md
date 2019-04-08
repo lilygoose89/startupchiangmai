@@ -15,10 +15,6 @@ categories:
   - spaces
   - collaboration
   - entrepreneurship
-  - Makerspace Thailand
-  - Niramis
-  - Tha Pae Co-Kitchen
-  - Weave Artisan Society
 image: /assets/images/tools-1.jpg
 ---
 
