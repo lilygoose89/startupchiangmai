@@ -18,8 +18,6 @@ By day a cafe and great place to work, by night, a swanky party venue. Some of C
 
 ## Buristro Bar & Cafe
 
-Words
-
 * Location:&nbsp;
 * Facebook:&nbsp;
 * Email:&nbsp;
@@ -27,16 +25,12 @@ Words
 
 ## Heartwork the Sharing Space
 
-Words
-
 * Location:&nbsp;
 * Facebook:&nbsp;
 * Email:&nbsp;
 * Phone:&nbsp;
 
 ## Cube 7
-
-Words
 
 * Location:&nbsp;
 * Facebook:&nbsp;
