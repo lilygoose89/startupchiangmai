@@ -9,10 +9,6 @@ categories:
   - collaboration
   - Software Companies
   - Communities
-  - Artisan Digital
-  - Buzzwoo
-  - Iglu
-  - ThinkNET
 image: /assets/images/bump-collaboration-colleagues.jpg
 ---
 
