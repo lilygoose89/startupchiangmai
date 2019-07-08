@@ -4,28 +4,24 @@ title: About Startup Chiang Mai
 permalink: /about
 comments: false
 ---
-<div style="background: #fe5f55; padding: 5%; margin-bottom: 2%;">
-  <p style="color: white; font-size: 2em; line-height: 1.2em;">Fed up with how difficult it is to find information online about Chiang Mai's startups and digital service providers, Startup Chiang Mai was born.</p>
-</div>
 
-#### Shining a spotlight on Chiang Mai's Startups and Entrepreneurs
+<div style="background: #fe5f55; padding: 5%; margin-bottom: 2%;"><p style="color: white; font-size: 2em; line-height: 1.2em;">How many startups are there in Chiang Mai?</p></div>
 
-Startup Chiang Mai is an effort to give Chiang Mai's most ambitious startups and creative entrepreneurs greater visibility. By bringing the conversation online, we're shouting out their message to a larger audience and inviting the world to discover the best the city has to offer.
+#### &nbsp;
 
-#### Building a Healthy Business Ecosystem
+No one seems to know how many startups there are in Chiang Mai, much less how many of those are investable businesses. Are these startups only Thai-focused or do they have global potential? Are there any ventures founded by the city's huge community of digital nomads that are worth knowing about?
 
-Our mission is to build Chiang Mai's most comprehensive digital directory for all things startup and entrepreneurship. Through our company listings, we're fostering connections and encouraging the flow of information and talent that will help this ecosystem to grow and thrive.
+The questions abound, but the answers are hard to find (especially in English).
 
-#### What's So Special About Chiang Mai?
+## Shining a Spotlight on Chiang Mai
 
-At first glance, it might seem a stretch to name Chiang Mai the Silicon Valley of Thailand. With its ancient temples and _sabai sabai_ pace of life, you'd be forgiven for thinking that Thailand's second city is purely a lifestyle destination.
+Startup Chiang Mai is an attempt to improve visibility into Chiang Mai's local tech, entrepreneurship and startup ecosystem.
 
-Dig a little deeper into the fabric of the city though and you'll discover Chiang Mai is overflowing with creative energy and perched on the brink of a tech revolution.
+By building a directory of all the startups in Chiang Mai this project aims to provide insight into the local ecosystem and kickstart connections and opportunities.
 
-We've got scrappy startups and ambitious software agencies, experienced technologists, feisty innovators and a new generation taking advantage of online opportunities to pursue their dreams. Digital nomads ditching their desks in favor of flexible work also flock to the city in droves, and they're bringing world-class talent and experience in creating ventures on a global scale.
+We'll also be telling the stories of founders, investors and ecosystem players, helping to share knowledge and foster community.
 
-
-Offline, Chiang Mai's brick and mortars are also worth shouting about. More than just money-making ventures, we're seeing a growing class of passionate entrepreneurs building businesses with intention and social impact. They're celebrating culture and heritage, they're bringing together communities, and they're the living hearts of our city.
+&nbsp;
 
 #### Join Us in Building Chiang Mai's future.
 
