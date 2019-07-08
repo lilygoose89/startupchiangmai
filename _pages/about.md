@@ -17,7 +17,7 @@ The questions abound, but the answers are hard to find (especially in English).
 
 Startup Chiang Mai is an attempt to improve visibility into Chiang Mai's local tech, entrepreneurship and startup ecosystem.
 
-By building a directory of all the startups in Chiang Mai this project aims to provide insight into the local ecosystem and kickstart connections and opportunities.
+By building a directory of all the startups in Chiang Mai, this project aims to provide insight into the local ecosystem and kickstart connections and opportunities.
 
 We'll also be telling the stories of founders, investors and ecosystem players, helping to share knowledge and foster community.
 
