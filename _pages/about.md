@@ -21,8 +21,6 @@ By building a directory of all the startups in Chiang Mai, this project aims to 
 
 We'll also be telling the stories of founders, investors and ecosystem players, helping to share knowledge and foster community.
 
-&nbsp;
-
 #### Join Us in Building Chiang Mai's future.
 
-This project is created by [Lily Bruns](https://cnxweb.site/about), Chiang Mai native, startup geek, and a founder of the [Chiang Mai Entrepreneurship Association](https://www.facebook.com/ChiangMaiEntrepreneurs/).
+This project is created by [Lily Bruns](https://lilybruns.com){: target="_blank"}, Chiang Mai native, startup geek, and a founder of the [Chiang Mai Entrepreneurship Association](https://www.facebook.com/ChiangMaiEntrepreneurs/).
