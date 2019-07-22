@@ -48,7 +48,7 @@ A quirky little warren of offices and workspaces tucked away in Sirimankalajarn 
 
 ## [Passion Project The Cafe](https://www.facebook.com/pg/PassionProjectCNX/about/){: target="_blank"}
 
-Opened earlier this year, the team introduced Chiang Mai to their gorgeous new coworking space with a jazzy cocktail party. True to the name, they owners have poured their hearts and souls into this space and it shows. The cafe is located on the upper floor which has soaring ceilings and big windows with views of the lush landscaping. Downstairs is a small but comfortable coworking area and rumor has it they are turning extra rooms off of the courtyard garden into bookable meeting spaces.
+Opened earlier this year, the team introduced Chiang Mai to their gorgeous new coworking space with a jazzy cocktail party. True to the name, the owners have poured their hearts and souls into this space and it shows. The cafe has an upper floor with soaring ceilings and big windows (get that natural light baby\!) with views of the lush landscaping. Downstairs is a small but comfortable coworking area and rumor has it they are turning extra rooms off of the courtyard garden into bookable meeting spaces. The latest improvement to the space is a disco-worthy pizza oven (you'll know what I mean when you see it) that fires&nbsp;
 
 Collaboratively minded, it's worth chatting with the owners here if you're looking to host an event. With many zones to wander around in, Passion Project would be great for social gatherings but also a surefire hit with your mastermind group if you round them up for a session.
 
