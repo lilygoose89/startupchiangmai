@@ -19,22 +19,18 @@ We may sometimes think of startups as pulling themselves up by their bootstraps,
 
 In an emerging tech scene like Thailand, a lot of support for entrepreneurship and innovation comes from the top-down, and while [I may have said a stern word or two](https://beachcity.com.au/build-entrepreneurial-ecosystem.html){: target="_blank"} about the effectiveness of this approach alone, there's no denying it's an essential component.
 
+Read on to learn about the Thai government's digital, innovation, and economic development agencies and the role they play in Chiang Mai's startup ecosystem.
+
 ## [National Innovation Agency (NIA)](https://www.nia.or.th/){: target="_blank"}
 
-&nbsp;
+Empowering Thailand's innovation, the National Innovation Agency (NIA) has a mandate to&nbsp;
+
+"NIA functions as the key engine driving national innovation by co-creation, networking, fostering, and partnering different organizations from various fields such as academic, technology, industry, finance and investment. Its main focus is on utilizing knowledge management to achieve innovation, particularly to foster “innovation on cluster platform” which uses innovation as the principal tool in improving quality of life and driving towards an increasing competitive economy. "
 
 ## [Startup Thailand](https://www.startupthailand.org/en/home/){: target="_blank"}
 
-&nbsp;
-
 ## [Digital Economy Promotion Agency (DEPA)](https://www.depa.or.th/en){: target="_blank"}
-
-&nbsp;
 
 ## [Thailand Board of Investment (BOI)](https://www.boi.go.th/en/index/){: target="_blank"}
 
-&nbsp;
-
 ## [Chiang Mai & Co](https://www.facebook.com/ChiangmaiCo/){: target="_blank"}
-
-&nbsp;
