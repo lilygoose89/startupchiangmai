@@ -27,10 +27,56 @@ Empowering Thailand's innovation, the National Innovation Agency (NIA) has a man
 
 "NIA functions as the key engine driving national innovation by co-creation, networking, fostering, and partnering different organizations from various fields such as academic, technology, industry, finance and investment. Its main focus is on utilizing knowledge management to achieve innovation, particularly to foster “innovation on cluster platform” which uses innovation as the principal tool in improving quality of life and driving towards an increasing competitive economy. "
 
+...
+
+* Location:
+* Facebook:
+* Phone:
+
 ## [Startup Thailand](https://www.startupthailand.org/en/home/){: target="_blank"}
+
+...
+
+""
+
+...
+
+* Location:
+* Facebook:
+* Phone:
 
 ## [Digital Economy Promotion Agency (DEPA)](https://www.depa.or.th/en){: target="_blank"}
 
+...
+
+""
+
+...
+
+* Location:
+* Facebook:
+* Phone:
+
 ## [Thailand Board of Investment (BOI)](https://www.boi.go.th/en/index/){: target="_blank"}
 
+...
+
+""
+
+...
+
+* Location:
+* Facebook:
+* Phone:
+
 ## [Chiang Mai & Co](https://www.facebook.com/ChiangmaiCo/){: target="_blank"}
+
+...
+
+""
+
+...
+
+* Location:
+* Facebook:
+* Phone:
