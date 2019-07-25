@@ -50,7 +50,7 @@ Startup Thailand also produce a magazine, videos and other resources aimed at ed
 
 ## [Digital Economy Promotion Agency (DEPA)](https://www.depa.or.th/en){: target="_blank"}
 
-...
+I had the pleasure of chatting with K. Chinawut Chinaprayoon,&nbsp;
 
 ""
 
