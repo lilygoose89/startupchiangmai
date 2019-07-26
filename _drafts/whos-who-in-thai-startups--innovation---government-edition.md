@@ -56,7 +56,7 @@ I had the pleasure of [chatting with K. Chinawut Chinaprayoon, Vice President of
 
 DEPA manages a startup fund, runs an IoT & Digital Innovation Institute, produces the annual Digital Big Bang Conference, runs coworking and event spaces and much, much more, including overseeing the Smart City initiative. In Chiang Mai, you can visit their offices east of town in the Wat Ket area or check out their coworking space at Promenada mall.
 
-If you're a digital nomad who loves Chiang Mai, do give kudos to the incredibly hard-working K. Chadathacha Chantanaphan who has been the key voice in her department championing the worthiness of a digital nomad visa. While this initiative is unlikely to be fast-moving, there are initiatives underway to gather data and assess the potential economic impact (we hope to report more on this soon).
+If you're a digital nomad who loves Chiang Mai, do give kudos to the incredibly hard-working K. Chadathacha Chantanaphan who has been the key voice in her department championing the worthiness of a digital nomad visa. While this initiative is unlikely to be fast-moving, there is work underway to gather data and assess the potential economic impact (we hope to report more on this soon).
 
 * Location: 158 Thung Hotel Rd., T. Watket, A. Muang Chiang Mai 50000
 * Facebook:&nbsp;[www.facebook.com/depachiangmai](https://web.facebook.com/depachiangmai/){: target="_blank"}
