@@ -50,11 +50,13 @@ Startup Thailand also produce a magazine, videos and other resources aimed at ed
 
 ## [Digital Economy Promotion Agency (DEPA)](https://www.depa.or.th/en){: target="_blank"}
 
-I had the pleasure of chatting with K. Chinawut Chinaprayoon,&nbsp;
+I had the pleasure of [chatting with K. Chinawut Chinaprayoon, Vice President of DEPA at Techsauce Global Summit 2019](https://web.facebook.com/beachcitylife/videos/619696528863526/) and found him delightfully switched on. The agency responsible for actioning the Digital Development for Economy and Society Act of 2017, this young organization work closely with startups and accelerators all well as digitally oriented SMEs to develop the ecosystem.
 
-""
+"The premier Digital Economy Promotion Agency to accelerate transformation in Thailand. The agency aims to support and promote the development of digital industry and innovation, support and promote digital technology adoption which benefit the national economy, society, culture, and security."
 
-...
+DEPA manages a startup fund, runs an IoT & Digital Innovation Institute, produces the annual Digital Big Bang Conference, runs coworking and event spaces and much, much more, including overseeing the Smart City initiative. In Chiang Mai, you can visit their offices east of town in the Wat Ket area or check out their coworking space at Promenada mall.
+
+If you're a digital nomad who loves Chiang Mai, do give kudos to the incredibly hard-working K. Chadathacha Chantanaphan who has been the key voice in her department championing the worthiness of a digital nomad visa.
 
 * Location:
 * Facebook:
@@ -62,11 +64,11 @@ I had the pleasure of chatting with K. Chinawut Chinaprayoon,&nbsp;
 
 ## [Thailand Board of Investment (BOI)](https://www.boi.go.th/en/index/){: target="_blank"}
 
-...
+…
 
 ""
 
-...
+…
 
 * Location:
 * Facebook:
@@ -74,11 +76,11 @@ I had the pleasure of chatting with K. Chinawut Chinaprayoon,&nbsp;
 
 ## Smart Cities
 
-...
+…
 
 ""
 
-...
+…
 
 * Location:
 * Facebook:
@@ -86,11 +88,11 @@ I had the pleasure of chatting with K. Chinawut Chinaprayoon,&nbsp;
 
 ## [Chiang Mai & Co](https://www.facebook.com/ChiangmaiCo/){: target="_blank"}
 
-...
+…
 
 ""
 
-...
+…
 
 * Location:
 * Facebook:
