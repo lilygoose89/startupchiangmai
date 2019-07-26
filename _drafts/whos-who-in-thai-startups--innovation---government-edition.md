@@ -31,9 +31,9 @@ While the work they do ranges from connecting academic researchers with corporat
 
 A national body, their logo will be found on all manner of startup event banners but much of their work is also conducted via sub-agencies under their umbrella.
 
-* Website: www.nia.or.th
-* Email: info@nia.or.th
-* Phone: 020175555
+* Website: [nia.or.th](https://www.nia.or.th/){: target="_blank"}
+* Email: [info@nia.or.th](mailto:info@nia.or.th)
+* Phone: 020-175-555
 
 ## [Startup Thailand](https://www.startupthailand.org/en/home/){: target="_blank"}
 
@@ -45,8 +45,8 @@ Headquartered in True Digital Park, Thailand's (and quite possibly the world's) 
 
 Startup Thailand also produce a magazine, videos and other resources aimed at educating startups and sharing ecosystem stories, primarily for Thai-language audiences.
 
-* Website: www.startupthailand.org
-* Email: startup@nia.or.th
+* Website: [startupthailand.org](https://www.startupthailand.org/en/home/){: target="_blank"}
+* Email: [startup@nia.or.th](mailto:startup@nia.or.th)
 
 ## [Digital Economy Promotion Agency (DEPA)](https://www.depa.or.th/en){: target="_blank"}
 
@@ -56,44 +56,45 @@ I had the pleasure of [chatting with K. Chinawut Chinaprayoon, Vice President of
 
 DEPA manages a startup fund, runs an IoT & Digital Innovation Institute, produces the annual Digital Big Bang Conference, runs coworking and event spaces and much, much more, including overseeing the Smart City initiative. In Chiang Mai, you can visit their offices east of town in the Wat Ket area or check out their coworking space at Promenada mall.
 
-If you're a digital nomad who loves Chiang Mai, do give kudos to the incredibly hard-working K. Chadathacha Chantanaphan who has been the key voice in her department championing the worthiness of a digital nomad visa. While this initiative is unlikely to be fast-moving, there is work underway to gather data and assess the potential economic impact (we hope to report more on this soon).
+If you're a digital nomad who loves Chiang Mai, do give kudos to the incredibly hard-working&nbsp;[K. Chadathacha Chantanaphan who has been the key voice in her office championing the worthiness of a digital nomad visa](https://www.youtube.com/watch?v=niKoPFxchS0){: target="_blank"}. While this initiative is unlikely to be fast-moving, there is work underway to gather data and assess the potential economic impact (we hope to report more on this soon).
 
 * Location: 158 Thung Hotel Rd., T. Watket, A. Muang Chiang Mai 50000
-* Facebook:&nbsp;[www.facebook.com/depachiangmai](https://web.facebook.com/depachiangmai/){: target="_blank"}
+* Website:&nbsp;[depa.or.th](https://www.depa.or.th/)
+* Facebook:&nbsp;[facebook.com/depachiangmai](https://web.facebook.com/depachiangmai/){: target="_blank"}
 * Phone: 053 247 282
 
 ## [Thailand Board of Investment (BOI)](https://www.boi.go.th/en/index/){: target="_blank"}
 
 …
 
-""
+"The Office of the Board of Investment is a government agency under the Office of the Prime Minister. Its core roles and responsibilities are to promote valuable investment, both investment into Thailand and Thai overseas investment. Our vision is to promote valuable investment, both investment in Thailand and Thai overseas investment to enhance Thailand’s competitiveness, to overcome the “Middle Income Trap” and to achieve sustainable growth in accordance with the sufficiency economy philosophy."
 
 …
 
-* Location:
-* Facebook:
-* Phone:
+* Location: Airport Business Park \#108-110 , 90 Mahidol Road, Haiya, Muang, Chiang Mai 50100
+* Website:&nbsp;[chiangmai.boi.go.th](https://chiangmai.boi.go.th/)
+* Email:&nbsp;[chmai@boi.go.th](mailto:chmai@boi.go.th)
+* Phone: &nbsp;053-294-100
 
-## Smart Cities
-
-…
-
-""
+## Smart City Thailand
 
 …
 
-* Location:
-* Facebook:
-* Phone:
+"Smart City means a city that takes advantage of modern technology and innovation to increase the efficiency of the city service and management, reduce the cost and resource usage of the target city and citizen. It focuses on good design and participation of business and public sectors in urban development, under the concept of a modern and livable city development, for people in the city to have a good quality of life and sustainable happiness. The Smart City Development Steering Committee promotes and supports operations in order to formulate a policy plan and drive the development of smart city at the local boundary level."
+
+…
+
+* Website:&nbsp;[smartcitythailand.or.th](https://www.smartcitythailand.or.th/)
 
 ## [Chiang Mai & Co](https://www.facebook.com/ChiangmaiCo/){: target="_blank"}
 
 …
 
-""
+"Chiangmai&Co founded by Startup Thailand, National Innovation Agency (NIA), ARISTO Group. That is a partnership between the government and private company with the same goal to promote the ecosystem of the startup."
 
 …
 
-* Location:
-* Facebook:
-* Phone:
+* Location:&nbsp;[Wiang Kaew Rd, T. Si Phum, A. Muang Chiang Mai 50200](https://www.google.com/maps/place/Chiangmai%26Co/@18.7931375,98.9866337,15z/data=!4m5!3m4!1s0x0:0xe73a5eb539d4b0bf!8m2!3d18.7931375!4d98.9866337){: target="_blank"}
+* Website:&nbsp;[chiangmaiandco.org](https://chiangmaiandco.org/)
+* Facebook:&nbsp;[facebook.com/ChiangmaiCo](https://web.facebook.com/ChiangmaiCo/){: target="_blank"}
+* Email:&nbsp;[contact@chiangmaiandco.org](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=contact@chiangmaiandco.org){: target="_blank"}
