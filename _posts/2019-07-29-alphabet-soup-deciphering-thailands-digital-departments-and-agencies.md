@@ -108,7 +108,9 @@ Chiang Mai & Co also provides business and consultancy services, including helpi
 * Facebook:&nbsp;[facebook.com/ChiangmaiCo](https://web.facebook.com/ChiangmaiCo/){: target="_blank"}
 * Email: [contact@chiangmaiandco.org](mailto:contact@chiangmaiandco.org)
 
-\-—–
+\---
+
+The world of technology is incredibly fast moving. While Thailand's startup scene is only around five years old, the level of investment and action on the part of the government indicate that Thailand 4.0 is just talk and PR. It will certainly be interesting to see how these agencies and project shape Chiang Mai's startup ecosystem in the months and years to come.
 
 &nbsp;
 
