@@ -83,11 +83,13 @@ If you're interested in learning more, make an appointment or visit their office
 * Email:&nbsp;[chmai@boi.go.th](mailto:chmai@boi.go.th)
 * Phone: &nbsp;053-294-100
 
-## **Smart City Thailand**
+## [**Smart City Thailand**](https://smartcitythailand.or.th){: target="_blank"}
+
+One of seven in the nation, Chiang Mai was selected to be a primary testing ground for DEPA's Smart City initiative. With access to special government grants and resources aimed at developing public facilities, promoting tourism, and enhancing quality of life, initial phases of the program will be centered around the Chiang Mai University campus and the Nimmanhaeminda neighborhood.
 
 &lt;blockquote cite=""&gt;Smart City means a city that takes advantage of modern technology and innovation to increase the efficiency of the city service and management, reduce the cost and resource usage of the target city and citizen. It focuses on good design and participation of business and public sectors in urban development, under the concept of a modern and livable city development, for people in the city to have a good quality of life and sustainable happiness. The Smart City Development Steering Committee promotes and supports operations in order to formulate a policy plan and drive the development of smart city at the local boundary level.&lt;/blockquote&gt;
 
-…
+Urban development activities that fall under the purview of Smart City range from old-school infrastructure improvements like relocating power cables and renovating sidewalks to green-tech ventures like shifting over to using electric vehicles. Some on the inside hope that the tourism-focused scope of this initiative may be broad enough to extend to the creation of a digital nomad visa, or even just easing immigration pressures to this tech-savvy community so invested in Chiang Mai.
 
 * Website:&nbsp;[smartcitythailand.or.th](https://www.smartcitythailand.or.th/){: target="_blank"}
 
