@@ -95,13 +95,21 @@ Urban development activities that fall under the purview of Smart City range fro
 
 ## [**Chiang Mai & Co**](https://chiangmaiandco.org/en/){: target="_blank"}
 
-…
+A public-private partnership between the NIA and [Aristo Group](https://www.aristo.co.th/){: target="_blank"}, Chiang Mai & Co is leading the charge to link local startups with accelerator programs, mentors and resources. One of fifteen targeted areas in which the Thai government aims to create Innovation Districts, Chiang Mai represents a unique opportunity due to its wealth of universities, cultural cache, close access to agriculture zones, and vibrant population of digital nomads.
 
 &lt;blockquote cite="[https://chiangmaiandco.org/en/](https://chiangmaiandco.org/en/)"&gt;Chiangmai&Co founded by Startup Thailand, National Innovation Agency (NIA) and ARISTO Group. This is a partnership between the government and private company with the same goal to promote the ecosystem of the startup.&lt;/blockquote&gt;
 
-…
+With their own event/coworking space fronting Punspace Wiangkaew, Step 1 for this organization seems to be curating events and seminars (especially of note is their recently launched Startups in Residence program). Still in the works, Step 2 will be mapping and documenting all the startups and technology companies currently operating in Chiang Mai (great minds think alike\!). With ties to the major government agencies, Chiang Mai & Co aims to feed data from program and grant applications into a central database.
+
+Chiang Mai & Co also provides business and consultancy services, including helping interested startups and entrepreneurs apply for the Smart Visa.
 
 * Location:&nbsp;[Wiang Kaew Rd, T. Si Phum, A. Muang Chiang Mai 50200](https://www.google.com/maps/place/Chiangmai%26Co/@18.7931375,98.9866337,15z/data=!4m5!3m4!1s0x0:0xe73a5eb539d4b0bf!8m2!3d18.7931375!4d98.9866337)
 * Website:&nbsp;[chiangmaiandco.org](https://chiangmaiandco.org/){: target="_blank"}
 * Facebook:&nbsp;[facebook.com/ChiangmaiCo](https://web.facebook.com/ChiangmaiCo/){: target="_blank"}
 * Email: [contact@chiangmaiandco.org](mailto:contact@chiangmaiandco.org)
+
+\------
+
+&nbsp;
+
+&nbsp;
