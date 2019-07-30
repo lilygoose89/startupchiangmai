@@ -21,6 +21,8 @@ In an emerging tech scene like Thailand, a lot of support for entrepreneurship a
 
 Read on to learn about some of the Thai government’s digital, innovation, and economic development agencies and the role they play in Chiang Mai’s startup ecosystem.
 
+---
+
 ## [**National Innovation Agency (NIA)**](https://www.nia.or.th/){: target="_blank"}
 
 Empowering Thailand’s innovation, the National Innovation Agency (NIA) has a mandate to improve Thailand’s competitiveness and promote economic restructuring. The NIA operates under the Ministry of Science and Technology and is led by the ambitious Dr. Pun-Arj Chairatana (who happens to be a Chiang Mai native - sawadee jaooo\!).&nbsp;
@@ -108,7 +110,7 @@ Chiang Mai & Co also provides business and consultancy services, including helpi
 * Facebook:&nbsp;[facebook.com/ChiangmaiCo](https://web.facebook.com/ChiangmaiCo/){: target="_blank"}
 * Email: [contact@chiangmaiandco.org](mailto:contact@chiangmaiandco.org)
 
-\-–
+---
 
 The world of technology is incredibly fast moving. While Thailand’s startup scene is only around five years old, the level of investment and action on the part of the government indicate that Thailand 4.0 is not just talk and PR. It will certainly be interesting to see how these agencies and projects shape Chiang Mai’s startup ecosystem in the months and years to come.
 
