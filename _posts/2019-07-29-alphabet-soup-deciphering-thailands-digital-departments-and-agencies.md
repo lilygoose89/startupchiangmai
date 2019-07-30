@@ -110,6 +110,6 @@ Chiang Mai & Co also provides business and consultancy services, including helpi
 
 \-–
 
-The world of technology is incredibly fast moving. While Thailand’s startup scene is only around five years old, the level of investment and action on the part of the government indicate that Thailand 4.0 is just talk and PR. It will certainly be interesting to see how these agencies and project shape Chiang Mai’s startup ecosystem in the months and years to come.
+The world of technology is incredibly fast moving. While Thailand’s startup scene is only around five years old, the level of investment and action on the part of the government indicate that Thailand 4.0 is not just talk and PR. It will certainly be interesting to see how these agencies and projects shape Chiang Mai’s startup ecosystem in the months and years to come.
 
 Big thanks are in order to [Nati Sang of Makerspace](https://www.facebook.com/makerspaceth/){: target="_blank"} for the background to get this piece started, and to [Munly Leong of Asean Nomad](https://www.aseannomad.capital/){: target="_blank"} and [BeachCity Media](http://www.beachcity.io/){: target="_blank"} for facilitating connections that led to the insights captured above.
