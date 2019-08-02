@@ -357,6 +357,11 @@ License: https://www.wowthemes.net/freebies-license/
          margin-bottom: 0px;
     }
 }
+@media (max-width:576px) {
+  .mobile-logo-small {
+    display: none;
+  }
+}
  @media (max-width:1024px) {
      .post-top-meta .col-md-10 {
          text-align:center;
