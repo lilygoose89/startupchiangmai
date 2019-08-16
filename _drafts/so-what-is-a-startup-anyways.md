@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So what is a startup anyways?
+title: So What is a Startup Anyways?
 permalink: /definition-of-startup
 description:
 author: lily
