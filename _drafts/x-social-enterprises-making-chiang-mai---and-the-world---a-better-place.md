@@ -18,6 +18,8 @@ Aka Ahma Coffee
 
 Freebird Cafe
 
+Elephant Nature Park
+
 Pun Pun Organic Farm
 
 Flying Squirrel
