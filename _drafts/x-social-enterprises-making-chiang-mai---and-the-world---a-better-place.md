@@ -14,6 +14,8 @@ Pak Daeng
 
 Chai Lai Orchid
 
+Aka Ahma Coffee
+
 Freebird Cafe
 
 Pun Pun Organic Farm
@@ -24,6 +26,8 @@ Single Origin Skincare
 
 Siamaya Chocolate
 
-Elephant Nature Park
+Lila Thai Massage
 
-&nbsp;
+Elephant Parade
+
+Superbee
