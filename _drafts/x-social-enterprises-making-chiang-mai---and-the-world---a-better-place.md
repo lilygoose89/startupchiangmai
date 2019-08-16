@@ -8,28 +8,34 @@ categories:
 image:
 ---
 
-Pure Thai Naturals
-
 Pak Daeng
 
 Chai Lai Orchid
 
-Aka Ahma Coffee
-
 Freebird Cafe
-
-Elephant Nature Park
-
-Pun Pun Organic Farm
-
-Flying Squirrel
-
-Single Origin Skincare
-
-Siamaya Chocolate
 
 Lila Thai Massage
 
-Elephant Parade
+.
+
+Pure Thai Naturals
+
+Flying Squirrel
 
 Superbee
+
+Single Origin Skincare
+
+.
+
+Aka Ahma Coffee
+
+Siamaya Chocolate
+
+Pun Pun Organic Farm
+
+.
+
+Elephant Parade
+
+Elephant Nature Park
