@@ -37,15 +37,17 @@ Specifically, I'm drawing the line against calling any type of fledgling busines
 
 The playbook for entrepreneurship applies to many types of business, but that's also true of management and we don't seem to have the same pretension for calling every small business manager an executive.
 
-The process for growing a small business versus a startup are not the same. The typical investment and growth strategy is not the same. The capacity to scale is not the same. The paths to scale and potential returns on investment are not the same.
+The process for growing a small business versus a startup are not the same. The typical investment and growth strategy is not the same. The capacity to scale is not the same. The metrics for success and the paths to scale are not the same.
+
+The key difference here is in the scale and the metrics for success. The challenges and opportunities are not the same, thus the playbooks are different. It doesn't help, it actuall y harms to be too broad.
 
 I love you honey but your restaurant/guesthouse/agency/lifestyle blog/e-commerce store&nbsp;**IS NOT A STARTUP**. It's probably just a small business.
 
 ## Oh, So You Hate Small Businesses or Something?
 
-I do not have anything against small businesses. I think small businesses are fantastic\! I think, on the whole, small business do more to create wealth, purpose, and human happiness than startups.
+I do not have anything against small businesses. I think small businesses are fantastic\! I think, on the whole, small business do more to create wealth, purpose, and human happiness than startups do.
 
-I think one of the reasons that they are so great is precisely because they're small, they're more focused and they can deliver more genuine value - they also aren't constrained by the&nbsp;
+I think one of the reasons that they *are* so great is precisely because they're small, they're more focused and they can deliver genuine value. I love my favorite bar more passionately than I do my favorite software.&nbsp;
 
 ## What Do Startups Do?
 
