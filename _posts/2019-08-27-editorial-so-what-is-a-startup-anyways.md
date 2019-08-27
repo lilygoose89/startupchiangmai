@@ -12,7 +12,7 @@ categories:
   - entrepreneurship
   - Startups
   - Directory
-image:
+image: /assets/images/questionmark.jpg
 ---
 
 I've been in the startup world since about 2014. During this time, my life has been all about tech and software, finding product-market fit, automating shit, creating pitch decks, and figuring out how to scale. I'm surrounded by developers and hardcore nerds, and a lot, *a lot* of jargon.&nbsp; It has dawned on me that I've been in a bit of a bubble and the things which are so obvious to me are, well, obviously not so obvious to others.
