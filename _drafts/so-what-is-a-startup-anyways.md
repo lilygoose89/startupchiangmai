@@ -79,6 +79,18 @@ Startup Chiang Mai is building a directory for startups as per my definition abo
 
 The aim of building this directory is to provide greater visibility and promote connections within the ecosystem. While I hope to create many knock-on benefits, ultimately I will know I have succeeded in my efforts when a local startup connects with a whale of an investor thanks to the attention and amplification they received from my efforts.
 
-While I have strong opinions about what type of business qualifies as a startup, I intend for this space to support entrepreneurship of all sorts, not just startups.&nbsp;
+Ultimately though, gathering together resources, connecting people, and telling stories will benefit the larger ecosystem, so I don't feel the need to be stingy with my attentions. While I have strong opinions about what type of business qualifies as a startup, I intend for this space to support entrepreneurship of all sorts, not just startups.&nbsp;
 
 Confusing I know, but until this project becomes a business big enough to require a board or serious editorial oversight, I'm going to do what works best for me.
+
+So while the directory will have strict criteria, the blog articles and my soon to be launched podcast will cast a much wider net. Variety is the spice of life, but I also believe in fostering inclusive growth. I also know from my studies of innovation and from my direct personal experience that the most game-changing solutions can come from a chance meeting of somebody with deep knowledge of a system/industry/problem and somebody with the technical ability to build a solution.
+
+If I can help a few of those to happen, well then I will also know my efforts have been worth the effort.
+
+## What can you do to support this project?
+
+At the moment, I am a one-woman team, so I need all the help I can get\! If you have a project, I want to meet you and discuss it with you and maybe record a podcast episode together. If you are producing an event for the benefit of Chiang Mai's business and entrepreneurship community, let's shout about it together. If you have knowledge or resources which could help others succeed, I want to help you get the word out.
+
+First thing's first though, we need to build this directory\! We do not yet have an answer to "how many startups are there in Chiang Mai?" and I don't have enough time and personal connections to compile the master list on my own.
+
+If you have a startup or you know of one, **[please help add it to my list](https://docs.google.com/forms/d/e/1FAIpQLSfIr8kanV0cposQ61ZsFKWH-Yx05y6-BqrjRHbDXRKwmTISBg/viewform){: target="_blank"}.** You don't have to know a whole lot about it, just provide the name and some links and I can chase it up myself.&nbsp;
