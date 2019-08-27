@@ -2,12 +2,16 @@
 layout: post
 title: 'Editorial: So What is a Startup Anyways?'
 permalink: /definition-of-startup
-description:
+description: >-
+  So what is the definition of a startup anyways and who is this directory and
+  website for? Get the best answer you've ever heard to "what is a startup" and
+  some insight on the motivations and personality behind Startup Chiang Mai.
 author: lily
 categories:
   - Editorial
   - entrepreneurship
   - Startups
+  - Directory
 image:
 ---
 
@@ -93,4 +97,6 @@ At the moment, I am a one-woman team, so I need all the help I can get\! If you 
 
 First thing's first though, we need to build this directory\! We do not yet have an answer to "how many startups are there in Chiang Mai?" and I don't have enough time and personal connections to compile the master list on my own.
 
-If you have a startup or you know of one, **[please help add it to my list](https://docs.google.com/forms/d/e/1FAIpQLSfIr8kanV0cposQ61ZsFKWH-Yx05y6-BqrjRHbDXRKwmTISBg/viewform){: target="_blank"}.** You don't have to know a whole lot about it, just provide the name and some links and I can chase it up myself.&nbsp;
+If you have a Chiang Mai based startup or you know of one, **[please help add it to my list](https://docs.google.com/forms/d/e/1FAIpQLSfIr8kanV0cposQ61ZsFKWH-Yx05y6-BqrjRHbDXRKwmTISBg/viewform){: target="_blank"}.** You don't have to know a whole lot about it, just provide the name and some links and I can chase it up myself\!
+
+Thanks for your support, and thanks for reading all the way to the end. You're just SUPER.
