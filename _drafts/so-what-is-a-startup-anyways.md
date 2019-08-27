@@ -15,7 +15,7 @@ I've been in the startup world since about 2014. During this time, my life has b
 
 When I began reaching out to my network and telling friends I was building a directory for startups, the question immediately emerged - what exactly do you mean by startup?
 
-It's so clear in my mind, but when I step back and look at the larger startup world in general and what the so-called experts on Forbes or Quora have to say, it's clear that even within our bubble, we're not in agreement.
+It's so clear in my mind, but when I step back and look at the larger startup world in general and what so-called experts on Quora have to say, it's clear that even within our bubble, we're not in agreement.
 
 Is it any business in an early-stage? Is it a company backed by venture capital? Is it only software or tech businesses? Is it just a lame blanket term for a do-nothing project run by overgrown adolescents in tshirts and hoodies?\!?
 
@@ -29,11 +29,13 @@ So for the record I want to clarify two things. 1) the first is my own definitio
 
 That's my definition for the purposes of this website and directory.
 
-It a definition I've arrived at through a lot of reading and thought and asking others for feedback and checking my assumptions and revising and finally deciding that I don't actually care what other people think too much and my definition is better (\*winks broadly and hopes her arrogance can be forgiven\*).
+It is a definition I've arrived at through a lot of reading and thought and asking others for feedback and checking my assumptions and revising and finally deciding that I don't actually care what other people think too much and my definition is better (\*winks broadly and hopes her arrogance can be forgiven\*).
 
-Go ask [Merriam-Webster](https://www.merriam-webster.com/dictionary/start-up){: target="_blank"}, [Investopedia](https://www.investopedia.com/terms/s/startup.asp){: target="_blank"}, [Startup.com](https://www.startups.com/library/expert-advice/what-is-a-startup-company){: target="_blank"} or [Eric Reis](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898){: target="_blank"} and they'll all give you a different answer, and there are sensible reasons for that. Startups and entrepreneurship have gained a lot of hype in recent years, and when anything becomes part of the popular culture, it takes on a new life and meanings get broadened and adjusted according to the needs of different groups.
+Go ask [Merriam-Webster](https://www.merriam-webster.com/dictionary/start-up){: target="_blank"}, [Investopedia](https://www.investopedia.com/terms/s/startup.asp){: target="_blank"}, [Startup.com](https://www.startups.com/library/expert-advice/what-is-a-startup-company){: target="_blank"} or [Eric Reis](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898){: target="_blank"} and they'll all give you a different answer, and there are sensible reasons for that.
 
-My two-cents is that this has led to an overuse of the term and a broadening of its meaning that is actually not very helpful. Sometimes people want to be kind and generous, but sometimes what serves a purpose best is boundaries, and I'm drawing a line.
+Startups and entrepreneurship have also gained a lot of hype in recent years, and when anything becomes part of the popular culture, it takes on a new life and meanings get broadened and adjusted according to the needs of different groups.
+
+My two-cents is that this has led to an overuse of the term and a broadening of its meaning that is actually not very helpful. Sometimes people want to be generous, but sometimes what serves a purpose best is boundaries, and I'm drawing a line.
 
 Specifically, I'm drawing the line against calling any type of fledgling business a startup. This drives me **insane**.
 
@@ -43,9 +45,11 @@ The requirements and necessary resources for startup success are different from 
 
 By lumping together too many different types of business under the umbrella of startups,&nbsp;*actual*&nbsp;startups are less likely to receive the help that they need, because what's provided is of lesser or limited usefulness.
 
-The biggest distraction typically comes from fledgling small businesses wanting to call themselves startups.
+The biggest distraction, in my view, typically comes from fledgling small businesses wanting to call themselves startups.
 
-We're seeing governments make a big play on innovation and supporting tech-led, disruptive startups. Big investments in private sector solutions to massive, global scale issues are being explored. The world has never pinned such high hopes on innovating our way to a better society\! It's never been so sexy to be part of a the startup world, so it's no wonder everybody wants a bit of this shiny-shiny to rub off on them.
+We're seeing governments make a big play on innovation and supporting tech-led, disruptive startups. Major investments in private sector solutions to massive, global scale issues are being explored. The world has never pinned such high hopes on innovating our way to a better society\!
+
+It's never been so sexy to be part of a the startup world, so it's no wonder everybody wants a bit of this shiny-shiny to rub off on them.
 
 But sorry, that's not helpful. It's majorly distracting.
 
@@ -57,19 +61,23 @@ I do not have anything against small businesses. I think small businesses are fa
 
 I think one of the reasons that they *are* so great is precisely because they're small, they're more focused and they can deliver genuine value. On the whole, I probably love my favorite bar more passionately than I do my favorite software.
 
-In real terms though, if my favorite bar closed I would be far less impacted in my ability to lead my best life than if my favorite software folded under. More to the point though, the rest of the world would be devastated by the loss of that software.
+In real terms though, if my favorite bar closed I would be far less impacted in my ability to lead my best life than if my favorite software folded under. More to the point though, the rest of the world would be devastated by the loss of that software (for the record, I am so incredibly boring that my favorite software is undoubtedly Google Suite - I am all about bizness\!).
 
 Small businesses are incredibly impactful to their owners, their direct customers and their communities, but the scale of their impact is always going to be limited.
 
-Startups on the other hand, are typically led by a small group of individuals and offer an incredible potential return on investment if they can pull off their ambitious plans.
+Startups on the other hand, have a smaller ratio of people involved at the helm than traditional businesses, they generate a disproportionately large return on investment for those exceedingly rare few that make it through the treacherous passage of business growth, and they also stand to have far, far broader reach/impact than most businesses do if successful.
 
-And that's the critical difference between a small business and a startup, the level of ambition.
+In the world of startups, it's go big or go home - and that's the critical difference between a small business and a startup, the level of ambition.
 
 You can have a neat app, but if you plan for that app to serve just a tiny market, then you're creating a small business. If, on the other hand, your ambition is to take over the world, seize tremendous marketshare from incumbents, or to create an entirely new market where none previously existed, then you're probably creating a startup.
 
 ## Ok, Well What's the Point of StartupChiangMai.com Exactly?
 
-That's a great question\! Thanks for asking hypothetical reason I have created for the purpose of my own editorial.
+That's a great question\! Thanks for asking make-believe questioner I have created for the purpose of my own editorial.
+
+Startup Chiang Mai is building a directory for startups as per my definition above. Show me the strength of your ambitions, the scale of your investments/resources, or the disruptive potential of your tech to make the cut.
+
+The aim of building this directory is to provide greater visibility and promote connections within the ecosystem. While I hope to create many knock-on benefits, ultimately I will know I have succeeded in my efforts when a local startup connects with a whale of an investor thanks to the attention and amplification they received from my efforts.
 
 While I have strong opinions about what type of business qualifies as a startup, I intend for this space to support entrepreneurship of all sorts, not just startups.&nbsp;
 
