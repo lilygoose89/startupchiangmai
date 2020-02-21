@@ -5,9 +5,112 @@
     <description>Startup Chiang Mai is a directory for all things startup and entrepreneurship. We also tell stories, share insights, and support community.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Aug 2019 16:38:55 +0700</pubDate>
-    <lastBuildDate>Fri, 02 Aug 2019 16:38:55 +0700</lastBuildDate>
+    <pubDate>Thu, 26 Sep 2019 13:49:24 +0700</pubDate>
+    <lastBuildDate>Thu, 26 Sep 2019 13:49:24 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Editorial: So What is a Startup Anyways?</title>
+        <description>&lt;p&gt;I’ve been in the startup world since about 2014. During this time, my life has been all about tech and software, finding product-market fit, automating shit, creating pitch decks, and figuring out how to scale. I’m surrounded by developers and hardcore nerds, and a lot, &lt;em&gt;a lot&lt;/em&gt; of jargon.  It has dawned on me that I’ve been in a bit of a bubble and the things which are so obvious to me are, well, obviously not so obvious to others.&lt;/p&gt;
+
+&lt;p&gt;When I began reaching out to my network and telling friends I was building a directory for startups, the question immediately emerged - what exactly do you mean by startup?&lt;/p&gt;
+
+&lt;p&gt;It’s so clear in my mind, but when I step back and look at the larger startup world in general and what so-called experts on Quora have to say, it’s clear that even within our bubble, we’re not in agreement.&lt;/p&gt;
+
+&lt;p&gt;Is it any business in an early-stage? Is it a company backed by venture capital? Is it only software or tech businesses? Is it just a lame blanket term for a do-nothing project run by overgrown adolescents in tshirts and hoodies?!?&lt;/p&gt;
+
+&lt;p&gt;Ew, no. I reject all of those answers.&lt;/p&gt;
+
+&lt;p&gt;So for the record I want to clarify two things. 1) the first is my own definition of what a startup is and 2) I also want to clarify the purpose of this project, StartupChiangMai.com.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-what-the-f-is-a-startup&quot;&gt;So What the F*** is a Startup?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;A startup is a company in the early stages of development or growth which has a tremendous potential to scale or to disrupt the conventional way of doing things.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s my definition for the purposes of this website and directory.&lt;/p&gt;
+
+&lt;p&gt;It is a definition I’ve arrived at through a lot of reading and thought and asking others for feedback and checking my assumptions and revising and finally deciding that I don’t actually care what other people think too much and my definition is better (*winks broadly and hopes her arrogance can be forgiven*).&lt;/p&gt;
+
+&lt;p&gt;Go ask &lt;a href=&quot;https://www.merriam-webster.com/dictionary/start-up&quot; target=&quot;_blank&quot;&gt;Merriam-Webster&lt;/a&gt;, &lt;a href=&quot;https://www.investopedia.com/terms/s/startup.asp&quot; target=&quot;_blank&quot;&gt;Investopedia&lt;/a&gt;, &lt;a href=&quot;https://www.startups.com/library/expert-advice/what-is-a-startup-company&quot; target=&quot;_blank&quot;&gt;Startup.com&lt;/a&gt; or &lt;a href=&quot;https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898&quot; target=&quot;_blank&quot;&gt;Eric Reis&lt;/a&gt; and they’ll all give you a different answer, and there are sensible reasons for that.&lt;/p&gt;
+
+&lt;p&gt;Startups and entrepreneurship have also gained a lot of hype in recent years, and when anything becomes part of the popular culture, it takes on a new life and meanings get broadened and adjusted according to the needs of different groups.&lt;/p&gt;
+
+&lt;p&gt;My two-cents is that this has led to an overuse of the term and a broadening of its meaning that is actually not very helpful. Sometimes people want to be generous, but sometimes what serves a purpose best is boundaries, and I’m drawing a line.&lt;/p&gt;
+
+&lt;p&gt;Specifically, I’m drawing the line against calling any type of fledgling business a startup. This drives me &lt;strong&gt;insane&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-case-for-keeping-the-definition-of-startups-narrow&quot;&gt;The Case for Keeping the Definition of Startups Narrow&lt;/h2&gt;
+
+&lt;p&gt;The requirements and necessary resources for startup success are different from those of most small to medium enterprises (SMEs) as well as large publicly owned companies. The metrics and timelines are also different.&lt;/p&gt;
+
+&lt;p&gt;By lumping together too many different types of business under the umbrella of startups, &lt;em&gt;actual&lt;/em&gt; startups are less likely to receive the help that they need, because what’s provided is of lesser or limited usefulness.&lt;/p&gt;
+
+&lt;p&gt;The biggest distraction, in my view, typically comes from fledgling small businesses wanting to call themselves startups.&lt;/p&gt;
+
+&lt;p&gt;We’re seeing governments make a big play on innovation and supporting tech-led, disruptive startups. Major investments in private sector solutions to massive, global scale issues are being explored. The world has never pinned such high hopes on innovating our way to a better society!&lt;/p&gt;
+
+&lt;p&gt;It’s never been so sexy to be part of a the startup world, so it’s no wonder everybody wants a bit of this shiny-shiny to rub off on them.&lt;/p&gt;
+
+&lt;p&gt;But sorry, that’s not helpful. It’s majorly distracting.&lt;/p&gt;
+
+&lt;p&gt;I love you honey but your restaurant/guesthouse/agency/lifestyle blog/e-commerce store &lt;strong&gt;IS NOT A STARTUP&lt;/strong&gt;. It’s just a small business.&lt;/p&gt;
+
+&lt;h2 id=&quot;oh-so-you-hate-small-businesses-or-something&quot;&gt;Oh, So You Hate Small Businesses or Something?&lt;/h2&gt;
+
+&lt;p&gt;I do not have anything against small businesses. I think small businesses are fantastic! I think, on the whole, small business do more to create wealth, purpose, and human happiness than startups do.&lt;/p&gt;
+
+&lt;p&gt;I think one of the reasons that they &lt;em&gt;are&lt;/em&gt; so great is precisely because they’re small, they’re more focused and they can deliver genuine value. On the whole, I probably love my favorite bar more passionately than I do my favorite software.&lt;/p&gt;
+
+&lt;p&gt;In real terms though, if my favorite bar closed I would be far less impacted in my ability to lead my best life than if my favorite software folded under. More to the point though, the rest of the world would be devastated by the loss of that software (for the record, I am so incredibly boring that my favorite software is undoubtedly Google Suite - I am all about bizness!).&lt;/p&gt;
+
+&lt;p&gt;Small businesses are incredibly impactful to their owners, their direct customers and their communities, but the scale of their impact is always going to be limited.&lt;/p&gt;
+
+&lt;p&gt;Startups on the other hand, have a smaller ratio of people involved at the helm than traditional businesses, they generate a disproportionately large return on investment for those exceedingly rare few that make it through the treacherous passage of business growth, and they also stand to have far, far broader reach/impact than most businesses do if successful.&lt;/p&gt;
+
+&lt;p&gt;In the world of startups, it’s go big or go home - and that’s the critical difference between a small business and a startup, the level of ambition.&lt;/p&gt;
+
+&lt;p&gt;You can have a neat app, but if you plan for that app to serve just a tiny market, then you’re creating a small business. If, on the other hand, your ambition is to take over the world, seize tremendous marketshare from incumbents, or to create an entirely new market where none previously existed, then you’re probably creating a startup.&lt;/p&gt;
+
+&lt;h2 id=&quot;ok-well-whats-the-point-of-startupchiangmaicom-exactly&quot;&gt;Ok, Well What’s the Point of StartupChiangMai.com Exactly?&lt;/h2&gt;
+
+&lt;p&gt;That’s a great question! Thanks for asking make-believe questioner I have created for the purpose of my own editorial.&lt;/p&gt;
+
+&lt;p&gt;Startup Chiang Mai is building a directory for startups as per my definition above. Show me the strength of your ambitions, the scale of your investments/resources, or the disruptive potential of your tech to make the cut.&lt;/p&gt;
+
+&lt;p&gt;The aim of building this directory is to provide greater visibility and promote connections within the ecosystem. While I hope to create many knock-on benefits, ultimately I will know I have succeeded in my efforts when a local startup connects with a whale of an investor thanks to the attention and amplification they received from my efforts.&lt;/p&gt;
+
+&lt;p&gt;Ultimately though, gathering together resources, connecting people, and telling stories will benefit the larger ecosystem, so I don’t feel the need to be stingy with my attentions. While I have strong opinions about what type of business qualifies as a startup, I intend for this space to support entrepreneurship of all sorts, not just startups. &lt;/p&gt;
+
+&lt;p&gt;Confusing I know, but until this project becomes a business big enough to require a board or serious editorial oversight, I’m going to do what works best for me.&lt;/p&gt;
+
+&lt;p&gt;So while the directory will have strict criteria, the blog articles and my soon to be launched podcast will cast a much wider net. Variety is the spice of life, but I also believe in fostering inclusive growth. I also know from my studies of innovation and from my direct personal experience that the most game-changing solutions can come from a chance meeting of somebody with deep knowledge of a system/industry/problem and somebody with the technical ability to build a solution.&lt;/p&gt;
+
+&lt;p&gt;If I can help a few of those to happen, well then I will also know my efforts have been worth the effort.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-can-you-do-to-support-this-project&quot;&gt;What can you do to support this project?&lt;/h2&gt;
+
+&lt;p&gt;At the moment, I am a one-woman team, so I need all the help I can get! If you have a project, I want to meet you and discuss it with you and maybe record a podcast episode together. If you are producing an event for the benefit of Chiang Mai’s business and entrepreneurship community, let’s shout about it together. If you have knowledge or resources which could help others succeed, I want to help you get the word out.&lt;/p&gt;
+
+&lt;p&gt;First thing’s first though, we need to build this directory! We do not yet have an answer to “how many startups are there in Chiang Mai?” and I don’t have enough time and personal connections to compile the master list on my own.&lt;/p&gt;
+
+&lt;p&gt;If you have a Chiang Mai based startup or you know of one, &lt;strong&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfIr8kanV0cposQ61ZsFKWH-Yx05y6-BqrjRHbDXRKwmTISBg/viewform&quot; target=&quot;_blank&quot;&gt;please help add it to my list&lt;/a&gt;.&lt;/strong&gt; You don’t have to know a whole lot about it, just provide the name and some links and I can chase it up myself!&lt;/p&gt;
+
+&lt;p&gt;Thanks for your support, and thanks for reading all the way to the end. You’re just SUPER.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/definition-of-startup</link>
+        <guid isPermaLink="true">http://localhost:4000/definition-of-startup</guid>
+        
+        
+        <category>Editorial</category>
+        
+        <category>entrepreneurship</category>
+        
+        <category>Startups</category>
+        
+        <category>Directory</category>
+        
+      </item>
     
       <item>
         <title>Alphabet Soup: Deciphering Thailand's Digital Departments and Agencies</title>
@@ -140,6 +243,59 @@
       </item>
     
       <item>
+        <title>Five Software Companies Leading Communities in Chiang Mai</title>
+        <description>&lt;p&gt;The open-source and highly supportive nature of the online developer community doesn’t always translate to an offline experience but Chiang Mai never has any shortage of tech meetups and talks. Some of the best are led by community-minded software companies playing a key part in establishing the city as Southeast Asia’s next tech hub.&lt;/p&gt;
+
+&lt;p&gt;How do you make great software, really? Without writing a textbook about it, you can boil this down to two things: great ideas, and badass developers. A healthy startup ecosystem should have heaps of both, and smart companies know that the way to find and support these is by bringing together the best and brightest to share and connect.&lt;/p&gt;
+
+&lt;p&gt;While the web offers many tools for tech nerds to do this while comfortably hidden behind their laptops, a city like Chiang Mai also offers great opportunities for software enthusiasts to come together IRL (or &lt;em&gt;in real life&lt;/em&gt; for those not fluent in geek speak). Read on to get to know the software companies leading Chiang Mai’s developer scene.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;thinknet&quot;&gt;&lt;a href=&quot;https://www.thinknet.co.th/&quot; target=&quot;_blank&quot;&gt;ThinkNET&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The team behind the Chiang Mai Developer Meetups, &lt;a href=&quot;https://www.thinknet.co.th/&quot; target=&quot;_blank&quot;&gt;ThinkNET&lt;/a&gt; is a software workshop with a big emphasis on company culture. Founded in Bangkok, the team that set up shop here in Chiang Mai were more than happy to ditch the rate-race commuter grind of the big city to embrace Chiang Mai’s more laidback lifestyle. ThinkNET go all out with the Chiang Mai Develop Meetups, organizing more than two-hours worth of workshops and presentations on everything from the newest open-source tools for software architects, to how teams can learn through design thinking or pair programming. Run primarily in Thai (though half the powerpoints are done entirely in English) the events are open to developers of all backgrounds as well as those who are looking to dip their feet into programming.&lt;/p&gt;
+
+&lt;h2 id=&quot;iglu&quot;&gt;&lt;a href=&quot;https://iglu.net/&quot; target=&quot;_blank&quot;&gt;Iglu&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;While not a software company per se, digital outsourcing solution &lt;a href=&quot;https://iglu.net/&quot; target=&quot;_blank&quot;&gt;Iglu&lt;/a&gt; tout community as one of the best reasons for developers and other digital workers to become members. They put their money where their mouth is by sponsoring and hosting a variety of events serving their membership as well as Chiang Mai’s many other remote workers and the community at large. Whether you’re tagging along to the annual company retreat, attending a fundraiser helmed by their exuberant head of communications, or learning about bio-hacking at a member-organized workshop, you can be sure that an Iglu event will be quirky, fun and well attended by top-class digital professionals from around the world.&lt;/p&gt;
+
+&lt;h2 id=&quot;artisan-digital&quot;&gt;&lt;a href=&quot;https://artisan.co.th/&quot; target=&quot;_blank&quot;&gt;Artisan Digital&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Founded by one of Chiang Mai’s most well connected tech-dudes, &lt;a href=&quot;https://www.facebook.com/ChiangMaiEntrepreneurs/photos/a.235733746973347/336577546888966/?type=3&amp;amp;theater&quot; target=&quot;_blank&quot;&gt;The Chiang Mai Entrepreneurship Association’s very own Toi&lt;/a&gt;, &lt;a href=&quot;https://artisan.co.th&quot; target=&quot;_blank&quot;&gt;Artisan Digital&lt;/a&gt; create digital experiences and software products worthy of Chiang Mai’s reputation for care of craft. With a stated mission to “make our home the new digital hub,” they keep close ties with Chiang Mai University’s Computer Sciences Department, Bangkok-based startups, corporate VCs and the larger Thai developer community. While they do on occasion invite the community into their cozy Sirimankalajarn office, you’ll more often see their team helping run things behind the scenes at other’s tech events and their logo emblazoned as a sponsor for all things startup in Chiang Mai.&lt;/p&gt;
+
+&lt;h2 id=&quot;buzzwoo-asia&quot;&gt;&lt;a href=&quot;https://www.buzzwoo.de/&quot; target=&quot;_blank&quot;&gt;Buzzwoo Asia&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A German software outfit, &lt;a href=&quot;https://www.buzzwoo.de/&quot; target=&quot;_blank&quot;&gt;Buzzwoo&lt;/a&gt; have had a branch in Chiang Mai for nearly a decade and in that time have earned themselves a reputation for being a great place to work. With a mixed Thai and international team, they do a lot to bring people together in-house and facilitate connections, and regularly extend invitations to Chiang Mai’s developer community to learn and grow with them. With events hosted almost every month, attendees are invited to “come for the talk, stay for the networking” and meet to discuss topics like Docker best practices, cool applications for AI and trends in the internet of things.&lt;/p&gt;
+
+&lt;h2 id=&quot;nextzy-technologies&quot;&gt;&lt;a href=&quot;https://nextzy.me/&quot; target=&quot;_blank&quot;&gt;Nextzy Technologies&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;If you’ve ever peeked into their offices at Cube 7 Coworking, you might get a bit of college dorm vibe, but this Bangkok-born software company is creating apps and software for major Thai corporates like AIS, True and Dhipaya Insurance. The Chiang Mai team host regular meetups around town and also bring developers together for hackathons, pool parties and flash talks.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;It takes a village, and putting Chiang Mai on the map as a tech tour de force will require companies and organizations to serve more than just themselves. By making the city a great place to work for their own teams and also supporting Chiang Mai’s developer community at large, these software houses are setting a great example for what it takes to build an ecosystem.&lt;/p&gt;
+
+&lt;p&gt;The best way to find out about upcoming events from these supportive ecosystem players is to stay tuned to updates on each company’s Facebook page, but there are also a couple of Facebook groups you’ll often see these events posted in in. Check out &lt;a href=&quot;https://www.facebook.com/groups/184800808563484/events/&quot; target=&quot;_blank&quot;&gt;CNX Community of Practice&lt;/a&gt; for events and learning opportunities for local developers or join the &lt;a href=&quot;https://www.facebook.com/groups/cmnomads/events/&quot; target=&quot;_blank&quot;&gt;Chiang Mai Digital Nomads&lt;/a&gt; group for events geared towards digital nomads and remote workers.&lt;/p&gt;
+
+&lt;p&gt;Which company’s events have you attended before? Are there other Chiang Mai based software companies you see as leading the charge? Who do you wish would put on another event soon? Please share your thoughts in the comments below!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 May 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/chiang-mai-software-companies-with-communities</link>
+        <guid isPermaLink="true">http://localhost:4000/chiang-mai-software-companies-with-communities</guid>
+        
+        
+        <category>resources</category>
+        
+        <category>collaboration</category>
+        
+        <category>Software Companies</category>
+        
+        <category>Communities</category>
+        
+      </item>
+    
+      <item>
         <title>Four Coworking Spaces to Host Your Next Event At</title>
         <description>&lt;p&gt;Looking for a venue for your next meetup, mastermind or shindig? While there’s plenty of big venues and conference spaces available for hire and god knows how many cafes and bars, you might think about collaborating with some of these community-minded venues to host your next event.&lt;/p&gt;
 
@@ -213,59 +369,6 @@
         <category>Events</category>
         
         <category>spaces</category>
-        
-      </item>
-    
-      <item>
-        <title>Five Software Companies Leading Communities in Chiang Mai</title>
-        <description>&lt;p&gt;The open-source and highly supportive nature of the online developer community doesn’t always translate to an offline experience but Chiang Mai never has any shortage of tech meetups and talks. Some of the best are led by community-minded software companies playing a key part in establishing the city as Southeast Asia’s next tech hub.&lt;/p&gt;
-
-&lt;p&gt;How do you make great software, really? Without writing a textbook about it, you can boil this down to two things: great ideas, and badass developers. A healthy startup ecosystem should have heaps of both, and smart companies know that the way to find and support these is by bringing together the best and brightest to share and connect.&lt;/p&gt;
-
-&lt;p&gt;While the web offers many tools for tech nerds to do this while comfortably hidden behind their laptops, a city like Chiang Mai also offers great opportunities for software enthusiasts to come together IRL (or &lt;em&gt;in real life&lt;/em&gt; for those not fluent in geek speak). Read on to get to know the software companies leading Chiang Mai’s developer scene.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;thinknet&quot;&gt;&lt;a href=&quot;https://www.thinknet.co.th/&quot; target=&quot;_blank&quot;&gt;ThinkNET&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;The team behind the Chiang Mai Developer Meetups, &lt;a href=&quot;https://www.thinknet.co.th/&quot; target=&quot;_blank&quot;&gt;ThinkNET&lt;/a&gt; is a software workshop with a big emphasis on company culture. Founded in Bangkok, the team that set up shop here in Chiang Mai were more than happy to ditch the rate-race commuter grind of the big city to embrace Chiang Mai’s more laidback lifestyle. ThinkNET go all out with the Chiang Mai Develop Meetups, organizing more than two-hours worth of workshops and presentations on everything from the newest open-source tools for software architects, to how teams can learn through design thinking or pair programming. Run primarily in Thai (though half the powerpoints are done entirely in English) the events are open to developers of all backgrounds as well as those who are looking to dip their feet into programming.&lt;/p&gt;
-
-&lt;h2 id=&quot;iglu&quot;&gt;&lt;a href=&quot;https://iglu.net/&quot; target=&quot;_blank&quot;&gt;Iglu&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;While not a software company per se, digital outsourcing solution &lt;a href=&quot;https://iglu.net/&quot; target=&quot;_blank&quot;&gt;Iglu&lt;/a&gt; tout community as one of the best reasons for developers and other digital workers to become members. They put their money where their mouth is by sponsoring and hosting a variety of events serving their membership as well as Chiang Mai’s many other remote workers and the community at large. Whether you’re tagging along to the annual company retreat, attending a fundraiser helmed by their exuberant head of communications, or learning about bio-hacking at a member-organized workshop, you can be sure that an Iglu event will be quirky, fun and well attended by top-class digital professionals from around the world.&lt;/p&gt;
-
-&lt;h2 id=&quot;artisan-digital&quot;&gt;&lt;a href=&quot;https://artisan.co.th/&quot; target=&quot;_blank&quot;&gt;Artisan Digital&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Founded by one of Chiang Mai’s most well connected tech-dudes, &lt;a href=&quot;https://www.facebook.com/ChiangMaiEntrepreneurs/photos/a.235733746973347/336577546888966/?type=3&amp;amp;theater&quot; target=&quot;_blank&quot;&gt;The Chiang Mai Entrepreneurship Association’s very own Toi&lt;/a&gt;, &lt;a href=&quot;https://artisan.co.th&quot; target=&quot;_blank&quot;&gt;Artisan Digital&lt;/a&gt; create digital experiences and software products worthy of Chiang Mai’s reputation for care of craft. With a stated mission to “make our home the new digital hub,” they keep close ties with Chiang Mai University’s Computer Sciences Department, Bangkok-based startups, corporate VCs and the larger Thai developer community. While they do on occasion invite the community into their cozy Sirimankalajarn office, you’ll more often see their team helping run things behind the scenes at other’s tech events and their logo emblazoned as a sponsor for all things startup in Chiang Mai.&lt;/p&gt;
-
-&lt;h2 id=&quot;buzzwoo-asia&quot;&gt;&lt;a href=&quot;https://www.buzzwoo.de/&quot; target=&quot;_blank&quot;&gt;Buzzwoo Asia&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;A German software outfit, &lt;a href=&quot;https://www.buzzwoo.de/&quot; target=&quot;_blank&quot;&gt;Buzzwoo&lt;/a&gt; have had a branch in Chiang Mai for nearly a decade and in that time have earned themselves a reputation for being a great place to work. With a mixed Thai and international team, they do a lot to bring people together in-house and facilitate connections, and regularly extend invitations to Chiang Mai’s developer community to learn and grow with them. With events hosted almost every month, attendees are invited to “come for the talk, stay for the networking” and meet to discuss topics like Docker best practices, cool applications for AI and trends in the internet of things.&lt;/p&gt;
-
-&lt;h2 id=&quot;nextzy-technologies&quot;&gt;&lt;a href=&quot;https://nextzy.me/&quot; target=&quot;_blank&quot;&gt;Nextzy Technologies&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;If you’ve ever peeked into their offices at Cube 7 Coworking, you might get a bit of college dorm vibe, but this Bangkok-born software company is creating apps and software for major Thai corporates like AIS, True and Dhipaya Insurance. The Chiang Mai team host regular meetups around town and also bring developers together for hackathons, pool parties and flash talks.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;It takes a village, and putting Chiang Mai on the map as a tech tour de force will require companies and organizations to serve more than just themselves. By making the city a great place to work for their own teams and also supporting Chiang Mai’s developer community at large, these software houses are setting a great example for what it takes to build an ecosystem.&lt;/p&gt;
-
-&lt;p&gt;The best way to find out about upcoming events from these supportive ecosystem players is to stay tuned to updates on each company’s Facebook page, but there are also a couple of Facebook groups you’ll often see these events posted in in. Check out &lt;a href=&quot;https://www.facebook.com/groups/184800808563484/events/&quot; target=&quot;_blank&quot;&gt;CNX Community of Practice&lt;/a&gt; for events and learning opportunities for local developers or join the &lt;a href=&quot;https://www.facebook.com/groups/cmnomads/events/&quot; target=&quot;_blank&quot;&gt;Chiang Mai Digital Nomads&lt;/a&gt; group for events geared towards digital nomads and remote workers.&lt;/p&gt;
-
-&lt;p&gt;Which company’s events have you attended before? Are there other Chiang Mai based software companies you see as leading the charge? Who do you wish would put on another event soon? Please share your thoughts in the comments below!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 08 Apr 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/chiang-mai-software-companies-with-communities</link>
-        <guid isPermaLink="true">http://localhost:4000/chiang-mai-software-companies-with-communities</guid>
-        
-        
-        <category>resources</category>
-        
-        <category>collaboration</category>
-        
-        <category>Software Companies</category>
-        
-        <category>Communities</category>
         
       </item>
     
