@@ -5,7 +5,7 @@ permalink: /contact
 comments: false
 ---
 <section class="get-in-touch">
-   <form method="POST" action="https://formspree.io/lily@startupchiangmai.com" class="contact-form row">
+   <form method="POST" action="https://formspree.io/f/xwkwgwae" class="contact-form row">
      <input type="hidden" name="_next" value="/" />
      <input type="hidden" name="_language" value="en" />
       <div class="form-field col-lg-4 col-md-6">
